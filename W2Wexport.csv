@@ -1,0 +1,667 @@
+YEAR,MONTH,EMPLOYEE_ID,CUSTOMER_ID,CUST_COUNTRY,CUSTOMER_NAME,PRODUCT_ID,PRODUCT_NAME,SHIPPING_COMPANY,UNIT_PRICE,UNITS_IN_STOCK,UNITS_ON_ORDER,DISCOUNT,QUANTITY,LINE_AMONT
+2028,Jul,5,VINET,France,Paul Henriot,11,Queso Cabrales,Grandma Kelly Shipping,14,22,30,,12,168
+2028,Jul,5,VINET,France,Paul Henriot,42,Singaporean Hokkien Fried Mee,Grandma Kelly Shipping,9.8,26,0,,10,98
+2028,Jul,5,VINET,France,Paul Henriot,72,Mozzarella di Giovanni,Grandma Kelly Shipping,34.8,14,0,,5,174
+2028,Jul,6,TOMSP,Germany,Karin Josephs,14,Tofu,Best Shipper,18.6,35,0,,9,167.4
+2028,Jul,6,TOMSP,Germany,Karin Josephs,51,Manjimup Dried Apples,Best Shipper,42.4,20,0,,40,1696
+2028,Jul,4,HANAR,Brazil,Mario Pontes,41,Jack's New England Clam Chowder,Really Best Shipper,7.7,85,0,,10,77
+2028,Jul,4,HANAR,Brazil,Mario Pontes,51,Manjimup Dried Apples,Really Best Shipper,42.4,20,0,0.15,35,1484
+2028,Jul,4,HANAR,Brazil,Mario Pontes,65,Louisiana Fiery Hot Pepper Sauce,Really Best Shipper,16.8,76,0,0.15,15,252
+2028,Jul,3,VICTE,France,Mary Saveley,22,Gustaf's Kneckebred,Best Shipper,16.8,104,0,0.05,6,100.8
+2028,Jul,3,VICTE,France,Mary Saveley,57,Ravioli Angelo,Best Shipper,15.6,36,0,0.05,15,234
+2028,Jul,3,VICTE,France,Mary Saveley,65,Louisiana Fiery Hot Pepper Sauce,Best Shipper,16.8,76,0,0,20,336
+2028,Jul,4,SUPRD,Belgium,Pascale Cartrain,20,Sir Rodney's Marmalade,Really Best Shipper,64.8,40,0,0.05,40,2592
+2028,Jul,4,SUPRD,Belgium,Pascale Cartrain,33,Geitost,Really Best Shipper,2,112,0,0.05,25,50
+2028,Jul,4,SUPRD,Belgium,Pascale Cartrain,60,Camembert Pierrot,Really Best Shipper,27.2,19,0,,40,1088
+2028,Jul,3,HANAR,Brazil,Mario Pontes,31,Gorgonzola Telino,Really Best Shipper,10,0,70,,20,200
+2028,Jul,3,HANAR,Brazil,Mario Pontes,39,Chartreuse verte,Really Best Shipper,14.4,69,0,,42,604.8
+2028,Jul,3,HANAR,Brazil,Mario Pontes,49,Maxilaku,Really Best Shipper,16,10,60,,40,640
+2028,Jul,5,CHOPS,Switzerland,Yang Wang,24,Guarane Fantestica,Really Best Shipper,3.6,20,0,0.15,15,54
+2028,Jul,5,CHOPS,Switzerland,Yang Wang,55,Pete chinois,Really Best Shipper,19.2,115,0,0.15,21,403.2
+2028,Jul,5,CHOPS,Switzerlnd,Yang Wang,74,Longlife Tofu,Really Best Shipper,8,,20,,21,168
+2028,Jul,9,RICSU,Switzerlnd,Michael Holz,2,Chang,Grandma Kelly Shipping,15.2,17,40,,20,304
+2028,Jul,9,RICSU,Switzerland,Michael Holz,16,Pavlova,Grandma Kelly Shipping,13.9,29,0,,35,486.5
+2028,Jul,9,RICSU,Swiss,Michael Holz,36,Inlagd Sill,Grandma Kelly Shipping,15.2,112,0,,25,380
+2028,Jul,9,RICSU,Switzerland,Michael Holz,59,Raclette Courdavault,Grandma Kelly Shipping,44,,0,,30,1320
+2028,Jul,3,WELLI,Brazil,Paula Parente,53,Perth Pasties,Really Best Shipper,26.2,0,0,,15,393
+2028,Jul,3,WELLI,Brazil,Paula Parente,77,Original Frankfurter grene Soee,Really Best Shipper,10.4,32,0,,12,124.8
+2028,Jul,4,HILAA,Venezuela,Carlos Hernendez,27,Schoggi Schokolade,Grandma Kelly Shipping,35.1,49,0,,25,877.5
+2028,Jul,4,HILAA,Venezuela,Carlos Hernendez,39,Chartreuse verte,Grandma Kelly Shipping,14.4,69,0,,6,86.4
+2028,Jul,4,HILAA,Venezuela,Carlos Hernendez,77,Original Frankfurter grene Soee,Grandma Kelly Shipping,10.4,32,0,,15,156
+2028,Jul,1,ERNSH,Austria,Roland Mendel,2,Chang,Best Shipper,15.2,17,40,0.2,50,760
+2028,Jul,1,ERNSH,Austria,Roland Mendel,5,Chef Anton's Gumbo Mix,Best Shipper,17,0,0,0.2,65,1105
+2028,Jul,1,ERNSH,Austria,Roland Mendel,32,Mascarpone Fabioli,Best Shipper,25.6,9,40,0.2,6,153.6
+2028,Jul,4,CENTC,Mexico,Francisco Chang,21,Sir Rodney's Scones,Grandma Kelly Shipping,8,3,40,0,10,80
+2028,Jul,4,CENTC,Mexico,Francisco Chang,37,Gravad lax,Grandma Kelly Shipping,20.8,11,50,0,1,20.8
+2028,Jul,4,OTTIK,Germany,Henriette Pfalzheim,41,Jack's New England Clam Chowder,Best Shipper,7.7,85,0,0.25,16,123.2
+2028,Jul,4,OTTIK,Germany,Henriette Pfalzheim,57,Ravioli Angelo,Best Shipper,15.6,36,0,0,50,780
+2028,Jul,4,OTTIK,Germany,Henriette Pfalzheim,62,Tarte au sucre,Best Shipper,39.4,17,0,0.25,15,591
+2028,Jul,4,OTTIK,Germany,Henriette Pfalzheim,70,Outback Lager,Best Shipper,12,15,10,0.25,21,252
+2028,Jul,4,QUEDE,Brazil,Bernardo Batista,21,Sir Rodney's Scones,Really Best Shipper,8,3,40,0,20,160
+2028,Jul,4,QUEDE,Brazil,Bernardo Batista,35,Steeleye Stout,Really Best Shipper,14.4,20,0,0,20,288
+2028,Jul,8,RATTC,USA,Paula Wilson,5,Chef Anton's Gumbo Mix,Grandma Kelly Shipping,17,0,0,0.2,12,204
+2028,Jul,8,RATTC,USA,Paula Wilson,7,Uncle Bob's Organic Dried Pears,Grandma Kelly Shipping,24,15,0,0,15,360
+2028,Jul,8,RATTC,USA,Paula Wilson,56,Gnocchi di nonna Alice,Grandma Kelly Shipping,30.4,21,10,0,2,60.8
+2028,Jul,9,ERNSH,Austria,Roland Mendel,16,Pavlova,Grandma Kelly Shipping,13.9,29,0,0.25,60,834
+2028,Jul,9,ERNSH,Austria,Roland Mendel,24,Guarane Fantestica,Grandma Kelly Shipping,3.6,20,0,0,28,100.8
+2028,Jul,9,ERNSH,Austria,Roland Mendel,30,Nord-Ost Matjeshering,Grandma Kelly Shipping,20.7,10,0,0.25,60,1242
+2028,Jul,9,ERNSH,Austria,Roland Mendel,74,Longlife Tofu,Grandma Kelly Shipping,8,4,20,0.25,36,288
+2028,Jul,6,FOLKO,Sweden,Maria Larsson,2,Chang,Grandma Kelly Shipping,15.2,17,40,0,35,532
+2028,Jul,6,FOLKO,Sweden,Maria Larsson,41,Jack's New England Clam Chowder,Grandma Kelly Shipping,7.7,85,0,0.15,25,192.5
+2028,Jul,2,BLONP,France,Frederique Citeaux,17,Alice Mutton,Best Shipper,31.2,0,0,0,30,936
+2028,Jul,2,BLONP,France,Frederique Citeaux,70,Outback Lager,Best Shipper,12,15,10,0,20,240
+2028,Jul,3,WARTH,Finland,Pirkko Koskitalo,12,Queso Manchego La Pastora,Grandma Kelly Shipping,30.4,86,0,0.05,12,364.8
+2028,Jul,4,FRANK,Germany,Peter Franken,40,Boston Crab Meat,Best Shipper,14.7,123,0,0,50,735
+2028,Jul,4,FRANK,Germany,Peter Franken,59,Raclette Courdavault,Best Shipper,44,79,0,0.15,70,3080
+2028,Jul,4,FRANK,Germany,Peter Franken,76,Lakkalikeeri,Best Shipper,14.4,57,0,0.15,15,216
+2028,Jul,8,GROSR,Venezuela,Manuel Pereira,29,Theringer Rostbratwurst,Grandma Kelly Shipping,99,0,0,0,10,990
+2028,Jul,8,GROSR,Venezuela,Manuel Pereira,72,Mozzarella di Giovanni,Grandma Kelly Shipping,27.8,14,0,0,4,111.2
+2028,Jul,5,WHITC,USA,Karl Jablonski,33,Geitost,Best Shipper,2,112,0,0.05,60,120
+2028,Jul,5,WHITC,USA,Karl Jablonski,72,Mozzarella di Giovanni,Best Shipper,27.8,14,0,0.05,20,556
+2028,Aug,1,WARTH,Finland,Pirkko Koskitalo,36,Inlagd Sill,Best Shipper,15.2,112,0,,30,456
+2028,Aug,1,WARTH,Finland,Pirkko Koskitalo,43,Ipoh Coffee,Best Shipper,36.8,17,10,,25,920
+2028,Aug,6,SPLIR,USA,Art Braunschweiger,33,Geitost,Really Best Shipper,2,112,0,,24,48
+2028,Aug,6,RATTC,USA,Paula Wilson,20,Sir Rodney's Marmalade,Really Best Shipper,64.8,40,0,,6,388.8
+2028,Aug,6,RATTC,USA,Paula Wilson,31,Gorgonzola Telino,Really Best Shipper,10,0,70,,40,400
+2028,Aug,6,RATTC,USA,Paula Wilson,72,Mozzarella di Giovanni,Really Best Shipper,27.8,14,0,,24,667.2
+2028,Aug,3,QUICK,Germany,Horst Kloss,10,Ikura,Grandma Kelly Shipping,24.8,31,0,,24,595.2
+2028,Aug,3,QUICK,Germany,Horst Kloss,31,Gorgonzola Telino,Grandma Kelly Shipping,10,0,70,,15,150
+2028,Aug,3,QUICK,Germany,Horst Kloss,33,Geitost,Grandma Kelly Shipping,2,112,0,,20,40
+2028,Aug,3,QUICK,Germany,Horst Kloss,40,Boston Crab Meat,Grandma Kelly Shipping,14.7,123,0,,60,882
+2028,Aug,3,QUICK,Germany,Horst Kloss,76,Lakkalikeeri,Grandma Kelly Shipping,14.4,57,0,,33,475.2
+2028,Aug,6,VINET,France,Paul Henriot,71,Flotemysost,Best Shipper,17.2,26,0,,20,344
+2028,Aug,6,VINET,France,Paul Henriot,72,Mozzarella di Giovanni,Best Shipper,27.8,14,0,,7,194.6
+2028,Aug,1,MAGAA,Italy,Giovanni Rovelli,24,Guarane Fantestica,Best Shipper,3.6,20,0,,12,43.2
+2028,Aug,1,MAGAA,Italy,Giovanni Rovelli,59,Raclette Courdavault,Best Shipper,44,79,0,,6,264
+2028,Aug,8,TORTU,Mexico,Miguel Angel Paolino,10,Ikura,Grandma Kelly Shipping,24.8,31,0,,15,372
+2028,Aug,8,TORTU,Mexico,Miguel Angel Paolino,13,Konbu,Grandma Kelly Shipping,4.8,24,0,0,10,48
+2028,Aug,2,MORGK,Germany,Alexander Feuer,28,Ressle Sauerkraut,Grandma Kelly Shipping,36.4,26,0,0,20,728
+2028,Aug,2,MORGK,Germany,Alexander Feuer,62,Tarte au sucre,Grandma Kelly Shipping,39.4,17,0,,12,472.8
+2028,Aug,8,BERGS,Sweden,Christina Berglund,44,Gula Malacca,Really Best Shipper,15.5,27,0,,16,248
+2028,Aug,8,BERGS,Sweden,Christina Berglund,59,Raclette Courdavault,Really Best Shipper,44,79,0,,15,660
+2028,Aug,8,BERGS,Sweden,Christina Berglund,63,Vegie-spread,Really Best Shipper,35.1,24,0,,8,280.8
+2028,Aug,8,BERGS,Sweden,Christina Berglund,73,Red Kaviar,Really Best Shipper,12,101,0,,25,300
+2028,Aug,8,LEHMS,Germany,Renate Messner,17,Alice Mutton,Really Best Shipper,31.2,0,0,,15,468
+2028,Aug,2,BERGS,Sweden,Christina Berglund,24,Guarane Fantestica,Best Shipper,3.6,20,0,,12,43.2
+2028,Aug,2,BERGS,Sweden,Christina Berglund,55,Pete chinois,Best Shipper,19.2,115,0,,20,384
+2028,Aug,2,BERGS,Sweden,Christina Berglund,75,Rhenbreu Klosterbier,Best Shipper,6.2,125,0,,30,186
+2028,Aug,4,ROMEY,Spain,Alejandra Camino,19,Teatime Chocolate Biscuits,Best Shipper,7.3,25,0,,1,7.3
+2028,Aug,4,ROMEY,Spain,Alejandra Camino,24,Guarane Fantestica,Best Shipper,3.6,20,0,,6,21.6
+2028,Aug,4,ROMEY,Spain,Alejandra Camino,35,Steeleye Stout,Best Shipper,14.4,20,0,,4,57.6
+2028,Aug,4,ROMEY,Spain,Alejandra Camino,30,Nord-Ost Matjeshering,Best Shipper,20.7,10,0,,6,124.2
+2028,Aug,4,ROMEY,Spain,Alejandra Camino,57,Ravioli Angelo,Best Shipper,15.6,36,0,,2,31.2
+2028,Aug,3,LILAS,Venezuela,Carlos Gonzelez,15,Genen Shouyu,Grandma Kelly Shipping,12.4,39,0,,20,248
+2028,Aug,3,LILAS,Venezuela,Carlos Gonzelez,19,Teatime Chocolate Biscuits,Grandma Kelly Shipping,7.3,25,0,,18,131.4
+2028,Aug,3,LILAS,Venezuela,Carlos Gonzelez,60,Camembert Pierrot,Grandma Kelly Shipping,27.2,19,0,,35,952
+2028,Aug,3,LILAS,Venezuela,Carlos Gonzelez,72,Mozzarella di Giovanni,Grandma Kelly Shipping,27.8,14,0,,3,83.4
+2028,Aug,4,LEHMS,Germany,Renate Messner,27,Schoggi Schokolade,Best Shipper,35.1,49,0,,15,526.5
+2028,Aug,4,LEHMS,Germany,Renate Messner,44,Gula Malacca,Best Shipper,15.5,27,0,,21,325.5
+2028,Aug,4,LEHMS,Germany,Renate Messner,60,Camembert Pierrot,Best Shipper,27.2,19,0,,20,544
+2028,Aug,4,LEHMS,Germany,Renate Messner,67,Laughing Lumberjack Lager,Best Shipper,11.2,52,0,0.25,5,56
+2028,Aug,1,QUICK,Germany,Horst Kloss,1,Chai,Really Best Shipper,14.4,39,0,0.2,45,648
+2028,Aug,1,QUICK,Germany,Horst Kloss,40,Boston Crab Meat,Really Best Shipper,14.7,123,0,0.2,40,588
+2028,Aug,1,QUICK,Germany,Horst Kloss,53,Perth Pasties,Really Best Shipper,26.2,0,0,,36,943.2
+2028,Aug,8,QUICK,Germany,Horst Kloss,35,Steeleye Stout,Grandma Kelly Shipping,14.4,20,0,,100,1440
+2028,Aug,8,QUICK,Germany,Horst Kloss,62,Tarte au sucre,Grandma Kelly Shipping,39.4,17,0,,40,1576
+2028,Aug,8,RICAR,Brazil,Janete Limeira,16,Pavlova,Grandma Kelly Shipping,13.9,29,0,,40,556
+2028,Aug,8,RICAR,Brazil,Janete Limeira,34,Sasquatch Ale,Grandma Kelly Shipping,11.2,111,0,,20,224
+2028,Aug,8,RICAR,Brazil,Janete Limeira,46,Spegesild,Grandma Kelly Shipping,9.6,95,0,,15,144
+2028,Aug,4,REGGC,Italy,Maurizio Moroni,54,Tourtiere,Best Shipper,5.9,21,0,,10,59
+2028,Aug,4,REGGC,Italy,Maurizio Moroni,68,Scottish Longbreads,Best Shipper,10,6,10,,3,30
+2028,Aug,7,BSBEV,UK,Victoria Ashworth,3,Aniseed Syrup,Grandma Kelly Shipping,8,13,70,,30,240
+2028,Aug,7,BSBEV,UK,Victoria Ashworth,64,Wimmers gute Semmelknedel,Grandma Kelly Shipping,26.6,22,80,,9,239.4
+2028,Aug,8,COMMI,Brazil,Pedro Afonso,5,Chef Anton's Gumbo Mix,Best Shipper,17,0,0,,20,340
+2028,Aug,8,COMMI,Brazil,Pedro Afonso,29,Theringer Rostbratwurst,Best Shipper,99,0,0,0,15,1485
+2028,Aug,8,COMMI,Brazil,Pedro Afonso,49,Maxilaku,Best Shipper,16,10,60,0,15,240
+2028,Aug,8,COMMI,Brazil,Pedro Afonso,77,Original Frankfurter grene Soee,Best Shipper,10.4,32,0,0,10,104
+2028,Aug,6,QUEDE,Brazil,Bernardo Batista,13,Konbu,Really Best Shipper,4.8,24,0,0.1,20,96
+2028,Aug,6,QUEDE,Brazil,Bernardo Batista,44,Gula Malacca,Really Best Shipper,15.5,27,0,0.1,24,372
+2028,Aug,6,QUEDE,Brazil,Bernardo Batista,51,Manjimup Dried Apples,Really Best Shipper,42.4,20,0,0.1,2,84.8
+2028,Aug,1,TRADH,Brazil,Anabela Domingues,20,Sir Rodney's Marmalade,Really Best Shipper,64.8,40,0,0,20,1296
+2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,18,Carnarvon Tigers,Grandma Kelly Shipping,50,42,0,0,12,600
+2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,24,Guarane Fantestica,Grandma Kelly Shipping,3.6,20,0,0,10,36
+2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,63,Vegie-spread,Grandma Kelly Shipping,35.1,24,0,0,5,175.5
+2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,75,Rhenbreu Klosterbier,Grandma Kelly Shipping,6.2,125,0,0,6,37.2
+2028,Aug,4,RATTC,USA,Paula Wilson,1,Chai,Really Best Shipper,14.4,39,0,0,18,259.2
+2028,Aug,4,RATTC,USA,Paula Wilson,17,Alice Mutton,Really Best Shipper,31.2,0,0,0,15,468
+2028,Aug,4,RATTC,USA,Paula Wilson,43,Ipoh Coffee,Really Best Shipper,36.8,17,10,0,15,552
+2028,Aug,4,RATTC,USA,Paula Wilson,60,Camembert Pierrot,Really Best Shipper,27.2,19,0,0,21,571.2
+2028,Aug,4,RATTC,USA,Paula Wilson,75,Rhenbreu Klosterbier,Really Best Shipper,6.2,125,0,0,6,37.2
+2028,Sep,2,VINET,France,Paul Henriot,56,Gnocchi di nonna Alice,Really Best Shipper,30.4,21,10,0,4,121.6
+2028,Sep,6,LILAS,Venezuela,Carlos Gonzelez,11,Queso Cabrales,Best Shipper,16.8,22,30,0,12,201.6
+2028,Sep,6,LILAS,Venezuela,Carlos Gonzelez,16,Pavlova,Best Shipper,13.9,29,0,0,30,417
+2028,Sep,6,LILAS,Venezuela,Carlos Gonzelez,69,Gudbrandsdalsost,Best Shipper,28.8,26,0,0,15,432
+2028,Sep,5,BLONP,France,Frederique Citeaux,39,Chartreuse verte,Really Best Shipper,14.4,69,0,0,60,864
+2028,Sep,5,BLONP,France,Frederique Citeaux,72,Mozzarella di Giovanni,Really Best Shipper,27.8,14,0,0,20,556
+2028,Sep,6,HUNGO,Ireland,Patricia McKenna,2,Chang,Really Best Shipper,15.2,17,40,0,40,608
+2028,Sep,6,HUNGO,Ireland,Patricia McKenna,36,Inlagd Sill,Really Best Shipper,15.2,112,0,0.25,40,608
+2028,Sep,6,HUNGO,Ireland,Patricia McKenna,59,Raclette Courdavault,Really Best Shipper,44,79,0,0.25,30,1320
+2028,Sep,6,HUNGO,Ireland,Patricia McKenna,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0,15,591
+2028,Sep,4,RICAR,Brazil,Janete Limeira,19,Teatime Chocolate Biscuits,Really Best Shipper,7.3,25,0,0,15,109.5
+2028,Sep,4,RICAR,Brazil,Janete Limeira,70,Outback Lager,Really Best Shipper,12,15,10,0,20,240
+2028,Sep,2,MAGAA,Italy,Giovanni Rovelli,66,Louisiana Hot Spiced Okra,Really Best Shipper,13.6,4,100,0,30,408
+2028,Sep,2,MAGAA,Italy,Giovanni Rovelli,68,Scottish Longbreads,Really Best Shipper,10,6,10,0,20,200
+2028,Sep,8,WANDK,Germany,Rita Meller,40,Boston Crab Meat,Really Best Shipper,14.7,123,0,0,10,147
+2028,Sep,8,WANDK,Germany,Rita Meller,56,Gnocchi di nonna Alice,Really Best Shipper,30.4,21,10,0,20,608
+2028,Sep,4,SUPRD,Belgium,Pascale Cartrain,17,Alice Mutton,Really Best Shipper,31.2,0,0,0,40,1248
+2028,Sep,4,SUPRD,Belgium,Pascale Cartrain,28,Ressle Sauerkraut,Really Best Shipper,36.4,26,0,0,28,1019.2
+2028,Sep,4,SUPRD,Belgium,Pascale Cartrain,43,Ipoh Coffee,Really Best Shipper,36.8,17,10,0,12,441.6
+2028,Sep,7,GODOS,Spain,Jose Pedro Freyre,40,Boston Crab Meat,Really Best Shipper,14.7,123,0,0.1,40,588
+2028,Sep,7,GODOS,Spain,Jose Pedro Freyre,65,Louisiana Fiery Hot Pepper Sauce,Really Best Shipper,16.8,76,0,0.1,30,504
+2028,Sep,7,GODOS,Spain,Jose Pedro Freyre,68,Scottish Longbreads,Really Best Shipper,10,6,10,0.1,15,150
+2028,Sep,1,TORTU,Mexico,Miguel Angel Paolino,49,Maxilaku,Really Best Shipper,16,10,60,0,30,480
+2028,Sep,1,TORTU,Mexico,Miguel Angel Paolino,59,Raclette Courdavault,Really Best Shipper,44,79,0,0,10,440
+2028,Sep,1,TORTU,Mexico,Miguel Angel Paolino,71,Flotemysost,Really Best Shipper,17.2,26,0,0,2,34.4
+2028,Sep,8,OLDWO,USA,Rene Phillips,18,Carnarvon Tigers,Grandma Kelly Shipping,50,42,0,0.1,25,1250
+2028,Sep,8,OLDWO,USA,Rene Phillips,29,Theringer Rostbratwurst,Grandma Kelly Shipping,99,0,0,0.1,25,2475
+2028,Sep,8,OLDWO,USA,Rene Phillips,39,Chartreuse verte,Grandma Kelly Shipping,14.4,69,0,0.1,30,432
+2028,Sep,1,ROMEY,Spain,Alejandra Camino,30,Nord-Ost Matjeshering,Grandma Kelly Shipping,20.7,10,0,0,10,207
+2028,Sep,1,ROMEY,Spain,Alejandra Camino,53,Perth Pasties,Grandma Kelly Shipping,26.2,0,0,0,10,262
+2028,Sep,1,ROMEY,Spain,Alejandra Camino,54,Tourtiere,Grandma Kelly Shipping,5.9,21,0,0,5,29.5
+2028,Sep,2,LONEP,USA,Fran Wilson,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0,10,394
+2028,Sep,2,LONEP,USA,Fran Wilson,68,Scottish Longbreads,Really Best Shipper,10,6,10,0,3,30
+2028,Sep,7,ANATR,Mexico,Ana Trujillo,69,Gudbrandsdalsost,Grandma Kelly Shipping,28.8,26,0,0,1,28.8
+2028,Sep,7,ANATR,Mexico,Ana Trujillo,70,Outback Lager,Grandma Kelly Shipping,12,15,10,0,5,60
+2028,Sep,3,HUNGO,Ireland,Patricia McKenna,4,Chef Anton's Cajun Seasoning,Best Shipper,17.6,53,0,0,20,352
+2028,Sep,3,HUNGO,Ireland,Patricia McKenna,6,Grandma's Boysenberry Spread,Best Shipper,20,120,0,0,30,600
+2028,Sep,3,HUNGO,Ireland,Patricia McKenna,42,Singaporean Hokkien Fried Mee,Best Shipper,11.2,26,0,0,2,22.4
+2028,Sep,3,HUNGO,Ireland,Patricia McKenna,43,Ipoh Coffee,Best Shipper,36.8,17,10,0,20,736
+2028,Sep,3,HUNGO,Ireland,Patricia McKenna,71,Flotemysost,Best Shipper,17.2,26,0,0,3,51.6
+2028,Sep,8,THEBI,USA,Liz Nixon,16,Pavlova,Really Best Shipper,13.9,29,0,0,10,139
+2028,Sep,8,THEBI,USA,Liz Nixon,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0,5,197
+2028,Sep,1,,,,42,Singaporean Hokkien Fried Mee,Grandma Kelly Shipping,11.2,26,0,0,6,67.2
+2028,Sep,1,,,,69,Gudbrandsdalsost,Grandma Kelly Shipping,28.8,26,0,0,7,201.6
+2028,Sep,2,WANDK,Germany,Rita Meller,28,Ressle Sauerkraut,Really Best Shipper,36.4,26,0,0,4,145.6
+2028,Sep,2,WANDK,Germany,Rita Meller,43,Ipoh Coffee,Really Best Shipper,36.8,17,10,0,24,883.2
+2028,Sep,2,WANDK,Germany,Rita Meller,53,Perth Pasties,Really Best Shipper,26.2,0,0,0,20,524
+2028,Sep,2,WANDK,Germany,Rita Meller,75,Rhenbreu Klosterbier,Really Best Shipper,6.2,125,0,0,10,62
+2028,Sep,2,QUICK,Germany,Horst Kloss,36,Inlagd Sill,Really Best Shipper,15.2,112,0,0,12,182.4
+2028,Sep,1,RATTC,USA,Paula Wilson,32,Mascarpone Fabioli,Really Best Shipper,25.6,9,40,0.1,40,1024
+2028,Sep,1,RATTC,USA,Paula Wilson,58,Escargots de Bourgogne,Really Best Shipper,10.6,62,0,0.1,30,318
+2028,Sep,1,RATTC,USA,Paula Wilson,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0.1,25,985
+2028,Sep,4,ISLAT,UK,Helen Bennett,34,Sasquatch Ale,Really Best Shipper,11.2,111,0,0,14,156.8
+2028,Sep,4,ISLAT,UK,Helen Bennett,70,Outback Lager,Really Best Shipper,12,15,10,0,30,360
+2028,Sep,1,RATTC,USA,Paula Wilson,41,Jack's New England Clam Chowder,Grandma Kelly Shipping,7.7,85,0,0,10,77
+2028,Sep,1,RATTC,USA,Paula Wilson,62,Tarte au sucre,Grandma Kelly Shipping,39.4,17,0,0,70,2758
+2028,Sep,6,LONEP,USA,Fran Wilson,1,Chai,Best Shipper,14.4,39,0,0,20,288
+2028,Oct,8,ISLAT,UK,Helen Bennett,41,Jack's New England Clam Chowder,Really Best Shipper,7.7,85,0,0,20,154
+2028,Oct,8,ISLAT,UK,Helen Bennett,76,Lakkalikeeri,Really Best Shipper,14.4,57,0,0,6,86.4
+2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,17,Alice Mutton,Grandma Kelly Shipping,31.2,0,0,0,8,249.6
+2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,28,Ressle Sauerkraut,Grandma Kelly Shipping,36.4,26,0,0,14,509.6
+2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,76,Lakkalikeeri,Grandma Kelly Shipping,14.4,57,0,0,30,432
+2028,Oct,5,WARTH,Finland,Pirkko Koskitalo,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0,30,516
+2028,Oct,3,ISLAT,UK,Helen Bennett,35,Steeleye Stout,Really Best Shipper,14.4,20,0,0,10,144
+2028,Oct,7,PERIC,Mexico,Guillermo Fernendez,52,Filo Mix,Grandma Kelly Shipping,5.6,38,0,0,20,112
+2028,Oct,4,KOENE,Germany,Philip Cramer,15,Genen Shouyu,Best Shipper,12.4,39,0,0,5,62
+2028,Oct,4,KOENE,Germany,Philip Cramer,25,NuNuCa Nue-Nougat-Creme,Best Shipper,11.2,76,0,0,4,44.8
+2028,Oct,4,KOENE,Germany,Philip Cramer,39,Chartreuse verte,Best Shipper,14.4,69,0,0,4,57.6
+2028,Oct,9,SAVEA,USA,Jose Pavarotti,16,Pavlova,Best Shipper,13.9,29,0,0.15,21,291.9
+2028,Oct,9,SAVEA,USA,Jose Pavarotti,35,Steeleye Stout,Best Shipper,14.4,20,0,0.15,70,1008
+2028,Oct,9,SAVEA,USA,Jose Pavarotti,46,Spegesild,Best Shipper,9.6,95,0,0,30,288
+2028,Oct,9,SAVEA,USA,Jose Pavarotti,59,Raclette Courdavault,Best Shipper,44,79,0,0.15,40,1760
+2028,Oct,9,SAVEA,USA,Jose Pavarotti,63,Vegie-spread,Best Shipper,35.1,24,0,0.15,80,2808
+2028,Oct,1,KOENE,Germany,Philip Cramer,6,Grandma's Boysenberry Spread,Grandma Kelly Shipping,20,120,0,0,6,120
+2028,Oct,1,KOENE,Germany,Philip Cramer,13,Konbu,Grandma Kelly Shipping,4.8,24,0,0,12,57.6
+2028,Oct,1,KOENE,Germany,Philip Cramer,14,Tofu,Grandma Kelly Shipping,18.6,35,0,0,9,167.4
+2028,Oct,1,KOENE,Germany,Philip Cramer,31,Gorgonzola Telino,Grandma Kelly Shipping,10,0,70,0,4,40
+2028,Oct,1,KOENE,Germany,Philip Cramer,72,Mozzarella di Giovanni,Grandma Kelly Shipping,27.8,14,0,0,40,1112
+2028,Oct,4,BOLID,Spain,Marten Sommer,4,Chef Anton's Cajun Seasoning,Really Best Shipper,17.6,53,0,0,24,422.4
+2028,Oct,4,BOLID,Spain,Marten Sommer,57,Ravioli Angelo,Really Best Shipper,15.6,36,0,0,16,249.6
+2028,Oct,4,BOLID,Spain,Marten Sommer,75,Rhenbreu Klosterbier,Really Best Shipper,6.2,125,0,0,50,310
+2028,Oct,2,FOLKO,Sweden,Maria Larsson,2,Chang,Best Shipper,15.2,17,40,0.2,25,380
+2028,Oct,2,FOLKO,Sweden,Maria Larsson,11,Queso Cabrales,Best Shipper,16.8,22,30,0.2,50,840
+2028,Oct,2,FOLKO,Sweden,Maria Larsson,30,Nord-Ost Matjeshering,Best Shipper,20.7,10,0,0.2,35,724.5
+2028,Oct,2,FOLKO,Sweden,Maria Larsson,58,Escargots de Bourgogne,Best Shipper,10.6,62,0,0.2,30,318
+2028,Oct,4,FURIB,Portugal,Lino Rodriguez,59,Raclette Courdavault,Grandma Kelly Shipping,44,79,0,0,9,396
+2028,Oct,4,FURIB,Portugal,Lino Rodriguez,65,Louisiana Fiery Hot Pepper Sauce,Grandma Kelly Shipping,16.8,76,0,0,40,672
+2028,Oct,4,FURIB,Portugal,Lino Rodriguez,68,Scottish Longbreads,Grandma Kelly Shipping,10,6,10,0,10,100
+2028,Oct,4,SPLIR,USA,Art Braunschweiger,19,Teatime Chocolate Biscuits,Really Best Shipper,7.3,25,0,0.05,10,73
+2028,Oct,4,SPLIR,USA,Art Braunschweiger,30,Nord-Ost Matjeshering,Really Best Shipper,20.7,10,0,0.05,8,165.6
+2028,Oct,4,SPLIR,USA,Art Braunschweiger,38,Cete de Blaye,Really Best Shipper,210.8,17,0,0.05,20,4216
+2028,Oct,4,SPLIR,USA,Art Braunschweiger,56,Gnocchi di nonna Alice,Really Best Shipper,30.4,21,10,0.05,12,364.8
+2028,Oct,3,LILAS,Venezuela,Carlos Gonzelez,26,Gumber Gummiberchen,Best Shipper,24.9,15,0,0.15,50,1245
+2028,Oct,3,LILAS,Venezuela,Carlos Gonzelez,72,Mozzarella di Giovanni,Best Shipper,27.8,14,0,0.15,25,695
+2028,Oct,9,BONAP,France,Laurence Lebihan,54,Tourtiere,Best Shipper,5.9,21,0,0,15,88.5
+2028,Oct,3,MEREP,Canada,Jean Fresniere,18,Carnarvon Tigers,Really Best Shipper,50,42,0,0.2,40,2000
+2028,Oct,3,MEREP,Canada,Jean Fresniere,42,Singaporean Hokkien Fried Mee,Really Best Shipper,11.2,26,0,0.2,10,112
+2028,Oct,3,MEREP,Canada,Jean Fresniere,47,Zaanse koeken,Really Best Shipper,7.6,36,0,0.2,16,121.6
+2028,Oct,5,WARTH,Finland,Pirkko Koskitalo,14,Tofu,Grandma Kelly Shipping,18.6,35,0,0,10,186
+2028,Oct,5,WARTH,Finland,Pirkko Koskitalo,21,Sir Rodney's Scones,Grandma Kelly Shipping,8,3,40,0.1,10,80
+2028,Oct,5,WARTH,Finland,Pirkko Koskitalo,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0.1,40,688
+2028,Oct,8,VICTE,France,Mary Saveley,52,Filo Mix,Really Best Shipper,5.6,38,0,0,8,44.8
+2028,Oct,8,VICTE,France,Mary Saveley,68,Scottish Longbreads,Really Best Shipper,10,6,10,0,10,100
+2028,Oct,7,HUNGO,Ireland,Patricia McKenna,2,Chang,Really Best Shipper,15.2,17,40,0.2,7,106.4
+2028,Oct,7,HUNGO,Ireland,Patricia McKenna,31,Gorgonzola Telino,Really Best Shipper,10,0,70,0.2,25,250
+2028,Oct,7,HUNGO,Ireland,Patricia McKenna,32,Mascarpone Fabioli,Really Best Shipper,25.6,9,40,0.2,6,153.6
+2028,Oct,7,HUNGO,Ireland,Patricia McKenna,51,Manjimup Dried Apples,Really Best Shipper,42.4,20,0,0.2,48,2035.2
+2028,Oct,7,PRINI,Portugal,Isabel de Castro,4,Chef Anton's Cajun Seasoning,Really Best Shipper,17.6,53,0,0.1,18,316.8
+2028,Oct,4,FRANK,Germany,Peter Franken,23,Tunnbred,Grandma Kelly Shipping,7.2,61,0,0,40,288
+2028,Oct,4,FRANK,Germany,Peter Franken,26,Gumber Gummiberchen,Grandma Kelly Shipping,24.9,15,0,0,24,597.6
+2028,Oct,4,FRANK,Germany,Peter Franken,36,Inlagd Sill,Grandma Kelly Shipping,15.2,112,0,0,20,304
+2028,Oct,4,FRANK,Germany,Peter Franken,37,Gravad lax,Grandma Kelly Shipping,20.8,11,50,0,28,582.4
+2028,Oct,4,FRANK,Germany,Peter Franken,72,Mozzarella di Giovanni,Grandma Kelly Shipping,27.8,14,0,0,25,695
+2028,Oct,4,OLDWO,USA,Rene Phillips,17,Alice Mutton,Grandma Kelly Shipping,31.2,0,0,0,20,624
+2028,Oct,4,OLDWO,USA,Rene Phillips,30,Nord-Ost Matjeshering,Grandma Kelly Shipping,20.7,10,0,0,15,310.5
+2028,Oct,2,MEREP,Canada,Jean Fresniere,4,Chef Anton's Cajun Seasoning,Really Best Shipper,17.6,53,0,0,10,176
+2028,Oct,2,MEREP,Canada,Jean Fresniere,17,Alice Mutton,Really Best Shipper,31.2,0,0,0.05,70,2184
+2028,Oct,2,MEREP,Canada,Jean Fresniere,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0,28,1103.2
+2028,Oct,1,BONAP,France,Laurence Lebihan,18,Carnarvon Tigers,Grandma Kelly Shipping,50,42,0,0.05,20,1000
+2028,Oct,1,BONAP,France,Laurence Lebihan,41,Jack's New England Clam Chowder,Grandma Kelly Shipping,7.7,85,0,0.05,12,92.4
+2028,Oct,1,BONAP,France,Laurence Lebihan,43,Ipoh Coffee,Grandma Kelly Shipping,36.8,17,10,0.05,40,1472
+2028,Oct,7,SIMOB,Denmark,Jytte Petersen,33,Geitost,Grandma Kelly Shipping,2,112,0,0,8,16
+2028,Oct,7,SIMOB,Denmark,Jytte Petersen,59,Raclette Courdavault,Grandma Kelly Shipping,44,79,0,0.15,9,396
+2028,Oct,4,FRANK,Germany,Peter Franken,2,Chang,Really Best Shipper,15.2,17,40,0.2,24,364.8
+2028,Oct,4,FRANK,Germany,Peter Franken,31,Gorgonzola Telino,Really Best Shipper,10,0,70,0.2,56,560
+2028,Oct,4,FRANK,Germany,Peter Franken,36,Inlagd Sill,Really Best Shipper,15.2,112,0,0.2,40,608
+2028,Oct,4,FRANK,Germany,Peter Franken,55,Pete chinois,Really Best Shipper,19.2,115,0,0.2,40,768
+2028,Oct,4,LEHMS,Germany,Renate Messner,64,Wimmers gute Semmelknedel,Best Shipper,26.6,22,80,0,50,1330
+2028,Oct,4,LEHMS,Germany,Renate Messner,68,Scottish Longbreads,Best Shipper,10,6,10,0.05,4,40
+2028,Oct,4,LEHMS,Germany,Renate Messner,76,Lakkalikeeri,Best Shipper,14.4,57,0,0,15,216
+2028,Nov,4,WHITC,USA,Karl Jablonski,4,Chef Anton's Cajun Seasoning,Really Best Shipper,17.6,53,0,0,35,616
+2028,Nov,4,WHITC,USA,Karl Jablonski,8,Northwoods Cranberry Sauce,Really Best Shipper,32,6,0,0.25,70,2240
+2028,Nov,2,QUICK,Germany,Horst Kloss,8,Northwoods Cranberry Sauce,Really Best Shipper,32,6,0,0,70,2240
+2028,Nov,2,QUICK,Germany,Horst Kloss,19,Teatime Chocolate Biscuits,Really Best Shipper,7.3,25,0,0,80,584
+2028,Nov,2,QUICK,Germany,Horst Kloss,42,Singaporean Hokkien Fried Mee,Really Best Shipper,11.2,26,0,0,9,100.8
+2028,Nov,3,RATTC,USA,Paula Wilson,17,Alice Mutton,Grandma Kelly Shipping,31.2,0,0,0.1,36,1123.2
+2028,Nov,3,RATTC,USA,Paula Wilson,56,Gnocchi di nonna Alice,Grandma Kelly Shipping,30.4,21,10,0,20,608
+2028,Nov,4,FAMIA,Brazil,Aria Cruz,25,NuNuCa Nue-Nougat-Creme,Grandma Kelly Shipping,11.2,76,0,0,10,112
+2028,Nov,4,FAMIA,Brazil,Aria Cruz,39,Chartreuse verte,Grandma Kelly Shipping,14.4,69,0,0.15,50,720
+2028,Nov,4,FAMIA,Brazil,Aria Cruz,40,Boston Crab Meat,Grandma Kelly Shipping,14.7,123,0,0,4,58.8
+2028,Nov,4,FAMIA,Brazil,Aria Cruz,75,Rhenbreu Klosterbier,Grandma Kelly Shipping,6.2,125,0,0.15,6,37.2
+2028,Nov,4,WANDK,Germany,Rita Meller,1,Chai,Really Best Shipper,14.4,39,0,0.15,15,216
+2028,Nov,4,WANDK,Germany,Rita Meller,23,Tunnbred,Really Best Shipper,7.2,61,0,0,25,180
+2028,Nov,7,SPLIR,USA,Art Braunschweiger,54,Tourtiere,Best Shipper,5.9,21,0,0,24,141.6
+2028,Nov,6,LAMAI,France,Annette Roulet,50,Valkoinen suklaa,Really Best Shipper,13,65,0,0.1,15,195
+2028,Nov,6,LAMAI,France,Annette Roulet,69,Gudbrandsdalsost,Really Best Shipper,28.8,26,0,0.1,18,518.4
+2028,Nov,1,ERNSH,Austria,Roland Mendel,38,Cete de Blaye,Best Shipper,210.8,17,0,0.05,20,4216
+2028,Nov,1,ERNSH,Austria,Roland Mendel,41,Jack's New England Clam Chowder,Best Shipper,7.7,85,0,0,13,100.1
+2028,Nov,1,ERNSH,Austria,Roland Mendel,44,Gula Malacca,Best Shipper,15.5,27,0,0.05,77,1193.5
+2028,Nov,1,ERNSH,Austria,Roland Mendel,65,Louisiana Fiery Hot Pepper Sauce,Best Shipper,16.8,76,0,0.05,10,168
+2028,Nov,3,FURIB,Portugal,Lino Rodriguez,24,Guarane Fantestica,Grandma Kelly Shipping,3.6,20,0,0,10,36
+2028,Nov,3,FURIB,Portugal,Lino Rodriguez,54,Tourtiere,Grandma Kelly Shipping,5.9,21,0,0.15,20,118
+2028,Nov,7,PICCO,Austria,Georg Pipps,11,Queso Cabrales,Grandma Kelly Shipping,16.8,22,30,0.2,12,201.6
+2028,Nov,7,PICCO,Austria,Georg Pipps,38,Cete de Blaye,Grandma Kelly Shipping,210.8,17,0,0.2,50,10540
+2028,Nov,8,PERIC,Mexico,Guillermo Fernendez,1,Chai,Grandma Kelly Shipping,14.4,39,0,0,12,172.8
+2028,Nov,8,PERIC,Mexico,Guillermo Fernendez,29,Theringer Rostbratwurst,Grandma Kelly Shipping,99,0,0,0,4,396
+2028,Nov,6,AROUT,UK,Thomas Hardy,24,Guarane Fantestica,Best Shipper,3.6,20,0,0,25,90
+2028,Nov,6,AROUT,UK,Thomas Hardy,57,Ravioli Angelo,Best Shipper,15.6,36,0,0,25,390
+2028,Nov,6,WANDK,Germany,Rita Meller,31,Gorgonzola Telino,Really Best Shipper,10,0,70,0,30,300
+2028,Nov,6,WANDK,Germany,Rita Meller,55,Pete chinois,Really Best Shipper,19.2,115,0,0,12,230.4
+2028,Nov,6,WANDK,Germany,Rita Meller,69,Gudbrandsdalsost,Really Best Shipper,28.8,26,0,0,20,576
+2028,Nov,1,LILAS,Venezuela,Carlos Gonzelez,10,Ikura,Grandma Kelly Shipping,24.8,31,0,0.2,30,744
+2028,Nov,1,LILAS,Venezuela,Carlos Gonzelez,26,Gumber Gummiberchen,Grandma Kelly Shipping,24.9,15,0,0,16,398.4
+2028,Nov,1,LILAS,Venezuela,Carlos Gonzelez,60,Camembert Pierrot,Grandma Kelly Shipping,27.2,19,0,0.2,8,217.6
+2028,Nov,5,LAMAI,France,Annette Roulet,24,Guarane Fantestica,Best Shipper,3.6,20,0,0.05,10,36
+2028,Nov,5,LAMAI,France,Annette Roulet,34,Sasquatch Ale,Best Shipper,11.2,111,0,0.05,10,112
+2028,Nov,5,LAMAI,France,Annette Roulet,36,Inlagd Sill,Best Shipper,15.2,112,0,0.05,20,304
+2028,Nov,5,SEVES,UK,Hari Kumar,16,Pavlova,Grandma Kelly Shipping,13.9,29,0,0.05,56,778.4
+2028,Nov,5,SEVES,UK,Hari Kumar,31,Gorgonzola Telino,Grandma Kelly Shipping,10,0,70,0.05,70,700
+2028,Nov,5,SEVES,UK,Hari Kumar,60,Camembert Pierrot,Grandma Kelly Shipping,27.2,19,0,0.05,80,2176
+2028,Nov,4,BLONP,France,Frederique Citeaux,28,Ressle Sauerkraut,Grandma Kelly Shipping,36.4,26,0,0,30,1092
+2028,Nov,4,BLONP,France,Frederique Citeaux,29,Theringer Rostbratwurst,Grandma Kelly Shipping,99,0,0,0,35,3465
+2028,Nov,4,BLONP,France,Frederique Citeaux,38,Cete de Blaye,Grandma Kelly Shipping,210.8,17,0,0,10,2108
+2028,Nov,4,BLONP,France,Frederique Citeaux,49,Maxilaku,Grandma Kelly Shipping,16,10,60,0,35,560
+2028,Nov,4,BLONP,France,Frederique Citeaux,54,Tourtiere,Grandma Kelly Shipping,5.9,21,0,0,28,165.2
+2028,Nov,1,QUICK,Germany,Horst Kloss,39,Chartreuse verte,Really Best Shipper,14.4,69,0,0.1,54,777.6
+2028,Nov,1,QUICK,Germany,Horst Kloss,60,Camembert Pierrot,Really Best Shipper,27.2,19,0,0.1,55,1496
+2028,Nov,3,BONAP,France,Laurence Lebihan,25,NuNuCa Nue-Nougat-Creme,Best Shipper,11.2,76,0,0,50,560
+2028,Nov,3,BONAP,France,Laurence Lebihan,51,Manjimup Dried Apples,Best Shipper,42.4,20,0,0,20,848
+2028,Nov,3,BONAP,France,Laurence Lebihan,54,Tourtiere,Best Shipper,5.9,21,0,0,24,141.6
+2028,Nov,4,DRACD,Germany,Sven Ottlieb,31,Gorgonzola Telino,Grandma Kelly Shipping,10,0,70,0,20,200
+2028,Nov,4,DRACD,Germany,Sven Ottlieb,75,Rhenbreu Klosterbier,Grandma Kelly Shipping,6.2,125,0,0,12,74.4
+2028,Nov,4,DRACD,Germany,Sven Ottlieb,76,Lakkalikeeri,Grandma Kelly Shipping,14.4,57,0,0,12,172.8
+2028,Nov,1,EASTC,UK,Ann Devon,69,Gudbrandsdalsost,Best Shipper,28.8,26,0,0,30,864
+2028,Nov,1,EASTC,UK,Ann Devon,71,Flotemysost,Best Shipper,17.2,26,0,0,5,86
+2028,Nov,3,,,,11,Queso Cabrales,Really Best Shipper,16.8,22,30,0,24,403.2
+2028,Nov,8,GALED,Spain,Eduardo Saavedra,65,Louisiana Fiery Hot Pepper Sauce,Really Best Shipper,16.8,76,0,0,5,84
+2028,Nov,8,GALED,Spain,Eduardo Saavedra,77,Original Frankfurter grene Soee,Really Best Shipper,10.4,32,0,0,5,52
+2028,Nov,7,VAFFE,Denmark,Palle Ibsen,34,Sasquatch Ale,Grandma Kelly Shipping,11.2,111,0,0,36,403.2
+2028,Nov,7,VAFFE,Denmark,Palle Ibsen,54,Tourtiere,Grandma Kelly Shipping,5.9,21,0,0,18,106.2
+2028,Nov,7,VAFFE,Denmark,Palle Ibsen,65,Louisiana Fiery Hot Pepper Sauce,Grandma Kelly Shipping,16.8,76,0,0,15,252
+2028,Nov,7,VAFFE,Denmark,Palle Ibsen,77,Original Frankfurter grene Soee,Grandma Kelly Shipping,10.4,32,0,0,7,72.8
+2028,Nov,2,ERNSH,Austria,Roland Mendel,21,Sir Rodney's Scones,Really Best Shipper,8,3,40,0.1,5,40
+2028,Nov,2,ERNSH,Austria,Roland Mendel,28,Ressle Sauerkraut,Really Best Shipper,36.4,26,0,0.1,13,473.2
+2028,Nov,2,ERNSH,Austria,Roland Mendel,57,Ravioli Angelo,Really Best Shipper,15.6,36,0,0,25,390
+2028,Nov,2,ERNSH,Austria,Roland Mendel,64,Wimmers gute Semmelknedel,Really Best Shipper,26.6,22,80,0.1,35,931
+2028,Dec,8,SPLIR,USA,Art Braunschweiger,29,Theringer Rostbratwurst,Really Best Shipper,99,0,0,0,20,1980
+2028,Dec,8,SPLIR,USA,Art Braunschweiger,56,Gnocchi di nonna Alice,Really Best Shipper,30.4,21,10,0.25,18,547.2
+2028,Dec,6,CHOPS,Switzerland,Yang Wang,1,Chai,Really Best Shipper,14.4,39,0,0.15,15,216
+2028,Dec,6,CHOPS,Switzerland,Yang Wang,64,Wimmers gute Semmelknedel,Really Best Shipper,26.6,22,80,0,30,798
+2028,Dec,6,CHOPS,Switzerland,Yang Wang,74,Longlife Tofu,Really Best Shipper,8,4,20,0.15,20,160
+2028,Dec,1,LAMAI,France,Annette Roulet,36,Inlagd Sill,Best Shipper,15.2,112,0,0.2,6,91.2
+2028,Dec,5,,,,20,Sir Rodney's Marmalade,Really Best Shipper,64.8,40,0,0.25,12,777.6
+2028,Dec,5,,,,38,Cete de Blaye,Really Best Shipper,210.8,17,0,0.25,40,8432
+2028,Dec,5,,,,60,Camembert Pierrot,Really Best Shipper,27.2,19,0,0.25,70,1904
+2028,Dec,5,,,,72,Mozzarella di Giovanni,Really Best Shipper,27.8,14,0,0.25,42,1167.6
+2028,Dec,4,HUNGO,Ireland,Patricia McKenna,58,Escargots de Bourgogne,Grandma Kelly Shipping,10.6,62,0,0.2,80,848
+2028,Dec,4,HUNGO,Ireland,Patricia McKenna,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0.2,50,860
+2028,Dec,1,WOLZA,Poland,Zbyszek Piestrzeniewicz,31,Gorgonzola Telino,Grandma Kelly Shipping,10,0,70,0,30,300
+2028,Dec,1,WOLZA,Poland,Zbyszek Piestrzeniewicz,58,Escargots de Bourgogne,Grandma Kelly Shipping,10.6,62,0,0,15,159
+2028,Dec,3,HUNGC,USA,Yoshi Latimer,14,Tofu,Really Best Shipper,18.6,35,0,0,15,279
+2028,Dec,3,HUNGC,USA,Yoshi Latimer,54,Tourtiere,Really Best Shipper,5.9,21,0,0,10,59
+2028,Dec,1,MEREP,Canada,Jean Fresniere,31,Gorgonzola Telino,Really Best Shipper,10,0,70,0.05,42,420
+2028,Dec,1,SEVES,UK,Hari Kumar,28,Ressle Sauerkraut,Grandma Kelly Shipping,36.4,26,0,0.15,20,728
+2028,Dec,1,SEVES,UK,Hari Kumar,39,Chartreuse verte,Grandma Kelly Shipping,14.4,69,0,0.15,20,288
+2028,Dec,5,FOLKO,Sweden,Maria Larsson,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0,6,103.2
+2028,Dec,2,QUEDE,Brazil,Bernardo Batista,41,Jack's New England Clam Chowder,Best Shipper,7.7,85,0,0.1,8,61.6
+2028,Dec,2,QUEDE,Brazil,Bernardo Batista,63,Vegie-spread,Best Shipper,35.1,24,0,0.1,16,561.6
+2028,Dec,2,QUEDE,Brazil,Bernardo Batista,65,Louisiana Fiery Hot Pepper Sauce,Best Shipper,16.8,76,0,0.1,20,336
+2028,Dec,8,HUNGO,Ireland,Patricia McKenna,30,Nord-Ost Matjeshering,Grandma Kelly Shipping,20.7,10,0,0.1,18,372.6
+2028,Dec,8,HUNGO,Ireland,Patricia McKenna,53,Perth Pasties,Grandma Kelly Shipping,26.2,0,0,0.1,20,524
+2028,Dec,8,HUNGO,Ireland,Patricia McKenna,60,Camembert Pierrot,Grandma Kelly Shipping,27.2,19,0,0.1,6,163.2
+2028,Dec,8,HUNGO,Ireland,Patricia McKenna,70,Outback Lager,Grandma Kelly Shipping,12,15,10,0,30,360
+2028,Dec,3,LILAS,Venezuela,Carlos Gonzelez,74,Longlife Tofu,Grandma Kelly Shipping,8,4,20,0,14,112
+2028,Dec,4,ERNSH,Austria,Roland Mendel,5,Chef Anton's Gumbo Mix,Best Shipper,17,0,0,0,32,544
+2028,Dec,4,ERNSH,Austria,Roland Mendel,18,Carnarvon Tigers,Best Shipper,50,42,0,0,9,450
+2028,Dec,4,ERNSH,Austria,Roland Mendel,29,Theringer Rostbratwurst,Best Shipper,99,0,0,0,14,1386
+2028,Dec,4,ERNSH,Austria,Roland Mendel,33,Geitost,Best Shipper,2,112,0,0,60,120
+2028,Dec,4,ERNSH,Austria,Roland Mendel,74,Longlife Tofu,Best Shipper,8,4,20,0,50,400
+2028,Dec,8,AROUT,UK,Thomas Hardy,13,Konbu,Grandma Kelly Shipping,4.8,24,0,0,20,96
+2028,Dec,8,AROUT,UK,Thomas Hardy,50,Valkoinen suklaa,Grandma Kelly Shipping,13,65,0,0,15,195
+2028,Dec,8,AROUT,UK,Thomas Hardy,56,Gnocchi di nonna Alice,Grandma Kelly Shipping,30.4,21,10,0,20,608
+2028,Dec,3,BERGS,Sweden,Christina Berglund,20,Sir Rodney's Marmalade,Grandma Kelly Shipping,64.8,40,0,0,28,1814.4
+2028,Dec,3,BERGS,Sweden,Christina Berglund,60,Camembert Pierrot,Grandma Kelly Shipping,27.2,19,0,0,15,408
+2028,Dec,1,SPLIR,USA,Art Braunschweiger,7,Uncle Bob's Organic Dried Pears,Really Best Shipper,24,15,0,0.2,10,240
+2028,Dec,1,SPLIR,USA,Art Braunschweiger,60,Camembert Pierrot,Really Best Shipper,27.2,19,0,0.2,20,544
+2028,Dec,1,SPLIR,USA,Art Braunschweiger,68,Scottish Longbreads,Really Best Shipper,10,6,10,0.2,8,80
+2028,Dec,9,FAMIA,Brazil,Aria Cruz,24,Guarane Fantestica,Grandma Kelly Shipping,3.6,20,0,0,15,54
+2028,Dec,9,FAMIA,Brazil,Aria Cruz,34,Sasquatch Ale,Grandma Kelly Shipping,11.2,111,0,0,10,112
+2028,Dec,1,SANTG,Norway,Jonas Bergulfsen,24,Guarane Fantestica,Really Best Shipper,3.6,20,0,0,15,54
+2028,Dec,1,SANTG,Norway,Jonas Bergulfsen,28,Ressle Sauerkraut,Really Best Shipper,36.4,26,0,0,6,218.4
+2028,Dec,1,SANTG,Norway,Jonas Bergulfsen,59,Raclette Courdavault,Really Best Shipper,44,79,0,0,12,528
+2028,Dec,1,SANTG,Norway,Jonas Bergulfsen,71,Flotemysost,Really Best Shipper,17.2,26,0,0,15,258
+2028,Dec,2,SEVES,UK,Hari Kumar,45,Rogede sild,Best Shipper,7.6,5,70,0.2,15,114
+2028,Dec,2,SEVES,UK,Hari Kumar,52,Filo Mix,Best Shipper,5.6,38,0,0.2,20,112
+2028,Dec,2,SEVES,UK,Hari Kumar,53,Perth Pasties,Best Shipper,26.2,0,0,0,40,1048
+2028,Dec,4,BOTTM,Canada,Elizabeth Lincoln,10,Ikura,Really Best Shipper,24.8,31,0,0,16,396.8
+2028,Dec,4,BOTTM,Canada,Elizabeth Lincoln,55,Pete chinois,Really Best Shipper,19.2,115,0,0,15,288
+2028,Dec,4,BOTTM,Canada,Elizabeth Lincoln,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0,20,788
+2028,Dec,4,BOTTM,Canada,Elizabeth Lincoln,70,Outback Lager,Really Best Shipper,12,15,10,0,30,360
+2028,Dec,6,ERNSH,Austria,Roland Mendel,31,Gorgonzola Telino,Best Shipper,10,0,70,0.1,60,600
+2028,Dec,6,ERNSH,Austria,Roland Mendel,35,Steeleye Stout,Best Shipper,14.4,20,0,0.1,40,576
+2028,Dec,6,ERNSH,Austria,Roland Mendel,46,Spegesild,Best Shipper,9.6,95,0,0,45,432
+2028,Dec,6,ERNSH,Austria,Roland Mendel,72,Mozzarella di Giovanni,Best Shipper,27.8,14,0,0.1,24,667.2
+2028,Dec,3,DRACD,Germany,Sven Ottlieb,13,Konbu,Grandma Kelly Shipping,4.8,24,0,0,18,86.4
+2028,Dec,2,PICCO,Austria,Georg Pipps,69,Gudbrandsdalsost,Grandma Kelly Shipping,28.8,26,0,0,50,1440
+2028,Dec,1,SAVEA,USA,Jose Pavarotti,2,Chang,Grandma Kelly Shipping,15.2,17,40,0.25,25,380
+2028,Dec,1,SAVEA,USA,Jose Pavarotti,14,Tofu,Grandma Kelly Shipping,18.6,35,0,0.25,42,781.2
+2028,Dec,1,SAVEA,USA,Jose Pavarotti,25,NuNuCa Nue-Nougat-Creme,Grandma Kelly Shipping,11.2,76,0,0.25,7,78.4
+2028,Dec,1,SAVEA,USA,Jose Pavarotti,26,Gumber Gummiberchen,Grandma Kelly Shipping,24.9,15,0,0.25,70,1743
+2028,Dec,1,SAVEA,USA,Jose Pavarotti,31,Gorgonzola Telino,Grandma Kelly Shipping,10,0,70,0,32,320
+2028,Dec,1,HUNGC,USA,Yoshi Latimer,13,Konbu,Grandma Kelly Shipping,4.8,24,0,0,10,48
+2028,Dec,1,HUNGC,USA,Yoshi Latimer,62,Tarte au sucre,Grandma Kelly Shipping,39.4,17,0,0,10,394
+2028,Dec,6,HILAA,Venezuela,Carlos Hernendez,46,Spegesild,Best Shipper,9.6,95,0,0.1,28,268.8
+2028,Dec,6,HILAA,Venezuela,Carlos Hernendez,53,Perth Pasties,Best Shipper,26.2,0,0,0.1,70,1834
+2028,Dec,6,HILAA,Venezuela,Carlos Hernendez,69,Gudbrandsdalsost,Best Shipper,28.8,26,0,0,8,230.4
+2028,Dec,1,FRANK,Germany,Peter Franken,23,Tunnbred,Grandma Kelly Shipping,7.2,61,0,0,40,288
+2028,Dec,1,FRANK,Germany,Peter Franken,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0,60,1032
+2028,Dec,1,FRANK,Germany,Peter Franken,72,Mozzarella di Giovanni,Grandma Kelly Shipping,27.8,14,0,0,21,583.8
+2028,Dec,5,PRINI,Portugal,Isabel de Castro,21,Sir Rodney's Scones,Best Shipper,8,3,40,0.15,10,80
+2028,Dec,5,PRINI,Portugal,Isabel de Castro,51,Manjimup Dried Apples,Best Shipper,42.4,20,0,0.15,18,763.2
+2028,Dec,2,SAVEA,USA,Jose Pavarotti,35,Steeleye Stout,Grandma Kelly Shipping,14.4,20,0,0,30,432
+2028,Dec,2,SAVEA,USA,Jose Pavarotti,55,Pete chinois,Grandma Kelly Shipping,19.2,115,0,0.1,120,2304
+2028,Dec,8,VAFFE,Denmark,Palle Ibsen,68,Scottish Longbreads,Grandma Kelly Shipping,10,6,10,0,60,600
+2028,Dec,8,VAFFE,Denmark,Palle Ibsen,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0,30,516
+2028,Dec,8,VAFFE,Denmark,Palle Ibsen,76,Lakkalikeeri,Grandma Kelly Shipping,14.4,57,0,0,35,504
+2028,Dec,8,VAFFE,Denmark,Palle Ibsen,77,Original Frankfurter grene Soee,Grandma Kelly Shipping,10.4,32,0,0,14,145.6
+2029,Jan,1,EASTC,UK,Ann Devon,29,Theringer Rostbratwurst,Grandma Kelly Shipping,99,0,0,0,21,2079
+2029,Jan,1,EASTC,UK,Ann Devon,35,Steeleye Stout,Grandma Kelly Shipping,14.4,20,0,0,35,504
+2029,Jan,1,EASTC,UK,Ann Devon,49,Maxilaku,Grandma Kelly Shipping,16,10,60,0,30,480
+2029,Jan,1,RATTC,USA,Paula Wilson,30,Nord-Ost Matjeshering,Best Shipper,20.7,10,0,0,18,372.6
+2029,Jan,1,RATTC,USA,Paula Wilson,56,Gnocchi di nonna Alice,Best Shipper,30.4,21,10,0,70,2128
+2029,Jan,1,RATTC,USA,Paula Wilson,65,Louisiana Fiery Hot Pepper Sauce,Best Shipper,16.8,76,0,0,20,336
+2029,Jan,1,RATTC,USA,Paula Wilson,71,Flotemysost,Best Shipper,17.2,26,0,0,60,1032
+2029,Jan,8,ERNSH,Austria,Roland Mendel,23,Tunnbred,Really Best Shipper,7.2,61,0,0,60,432
+2029,Jan,8,ERNSH,Austria,Roland Mendel,63,Vegie-spread,Really Best Shipper,35.1,24,0,0,65,2281.5
+2029,Jan,4,ERNSH,Austria,Roland Mendel,16,Pavlova,Grandma Kelly Shipping,13.9,29,0,0.15,21,291.9
+2029,Jan,4,ERNSH,Austria,Roland Mendel,48,Chocolade,Grandma Kelly Shipping,10.2,15,70,0.15,70,714
+2029,Jan,2,MAGAA,Italy,Giovanni Rovelli,26,Gumber Gummiberchen,Best Shipper,24.9,15,0,0.05,30,747
+2029,Jan,2,MAGAA,Italy,Giovanni Rovelli,42,Singaporean Hokkien Fried Mee,Best Shipper,11.2,26,0,0.05,40,448
+2029,Jan,2,MAGAA,Italy,Giovanni Rovelli,49,Maxilaku,Best Shipper,16,10,60,0.05,30,480
+2029,Jan,1,LINOD,Venezuela,Felipe Izquierdo,3,Aniseed Syrup,Best Shipper,8,13,70,0,50,400
+2029,Jan,7,,,,1,Chai,Best Shipper,14.4,39,0,0,10,144
+2029,Jan,7,,,,21,Sir Rodney's Scones,Best Shipper,8,3,40,0.1,30,240
+2029,Jan,7,,,,28,Ressle Sauerkraut,Best Shipper,36.4,26,0,0.1,42,1528.8
+2029,Jan,7,,,,36,Inlagd Sill,Best Shipper,15.2,112,0,0.1,5,76
+2029,Jan,7,,,,40,Boston Crab Meat,Best Shipper,14.7,123,0,0.1,2,29.4
+2029,Jan,2,OTTIK,Germany,Henriette Pfalzheim,11,Queso Cabrales,Really Best Shipper,16.8,22,30,0,30,504
+2029,Jan,2,OTTIK,Germany,Henriette Pfalzheim,69,Gudbrandsdalsost,Really Best Shipper,28.8,26,0,0,15,432
+2029,Jan,2,OTTIK,Germany,Henriette Pfalzheim,71,Flotemysost,Really Best Shipper,17.2,26,0,0,15,258
+2029,Jan,8,FOLIG,France,Martine Rance,37,Gravad lax,Best Shipper,20.8,11,50,0,10,208
+2029,Jan,8,FOLIG,France,Martine Rance,54,Tourtiere,Best Shipper,5.9,21,0,0,6,35.4
+2029,Jan,8,FOLIG,France,Martine Rance,62,Tarte au sucre,Best Shipper,39.4,17,0,0,35,1379
+2029,Jan,3,,,,14,Tofu,Best Shipper,18.6,35,0,0,12,223.2
+2029,Jan,3,,,,21,Sir Rodney's Scones,Best Shipper,8,3,40,0,12,96
+2029,Jan,3,BOTTM,Canada,Elizabeth Lincoln,33,Geitost,Grandma Kelly Shipping,2,112,0,0,49,98
+2029,Jan,3,BOTTM,Canada,Elizabeth Lincoln,59,Raclette Courdavault,Grandma Kelly Shipping,44,79,0,0,16,704
+2029,Jan,9,BOTTM,Canada,Elizabeth Lincoln,41,Jack's New England Clam Chowder,Grandma Kelly Shipping,7.7,85,0,0.2,25,192.5
+2029,Jan,9,BOTTM,Canada,Elizabeth Lincoln,44,Gula Malacca,Grandma Kelly Shipping,15.5,27,0,0.2,40,620
+2029,Jan,9,BOTTM,Canada,Elizabeth Lincoln,59,Raclette Courdavault,Grandma Kelly Shipping,44,79,0,0.2,9,396
+2029,Jan,8,WARTH,Finland,Pirkko Koskitalo,14,Tofu,Really Best Shipper,18.6,35,0,0.1,20,372
+2029,Jan,3,LAMAI,France,Annette Roulet,1,Chai,Really Best Shipper,14.4,39,0,0,24,345.6
+2029,Jan,3,LAMAI,France,Annette Roulet,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0,40,1576
+2029,Jan,3,LAMAI,France,Annette Roulet,76,Lakkalikeeri,Really Best Shipper,14.4,57,0,0,14,201.6
+2029,Jan,2,FAMIA,Brazil,Aria Cruz,19,Teatime Chocolate Biscuits,Grandma Kelly Shipping,7.3,25,0,0.05,18,131.4
+2029,Jan,2,FAMIA,Brazil,Aria Cruz,33,Geitost,Grandma Kelly Shipping,2,112,0,0,50,100
+2029,Jan,3,HUNGC,USA,Yoshi Latimer,17,Alice Mutton,Best Shipper,31.2,0,0,0,2,62.4
+2029,Jan,3,HUNGC,USA,Yoshi Latimer,33,Geitost,Best Shipper,2,112,0,0,20,40
+2029,Jan,8,WARTH,Finland,Pirkko Koskitalo,19,Teatime Chocolate Biscuits,Grandma Kelly Shipping,7.3,25,0,0,20,146
+2029,Jan,8,WARTH,Finland,Pirkko Koskitalo,53,Perth Pasties,Grandma Kelly Shipping,26.2,0,0,0,10,262
+2029,Jan,8,WARTH,Finland,Pirkko Koskitalo,57,Ravioli Angelo,Grandma Kelly Shipping,15.6,36,0,0,20,312
+2029,Jan,4,SIMOB,Denmark,Jytte Petersen,38,Cete de Blaye,Grandma Kelly Shipping,210.8,17,0,0,50,10540
+2029,Jan,4,SIMOB,Denmark,Jytte Petersen,46,Spegesild,Grandma Kelly Shipping,9.6,95,0,0.25,2,19.2
+2029,Jan,4,SIMOB,Denmark,Jytte Petersen,68,Scottish Longbreads,Grandma Kelly Shipping,10,6,10,0.25,36,360
+2029,Jan,4,SIMOB,Denmark,Jytte Petersen,77,Original Frankfurter grene Soee,Grandma Kelly Shipping,10.4,32,0,0,35,364
+2029,Jan,4,QUICK,Germany,Horst Kloss,2,Chang,Best Shipper,15.2,17,40,0,60,912
+2029,Jan,4,QUICK,Germany,Horst Kloss,47,Zaanse koeken,Best Shipper,7.6,36,0,0,55,418
+2029,Jan,4,QUICK,Germany,Horst Kloss,61,Sirop d'erable,Best Shipper,22.8,113,0,0,16,364.8
+2029,Jan,4,QUICK,Germany,Horst Kloss,74,Longlife Tofu,Best Shipper,8,4,20,0,15,120
+2029,Jan,4,RICSU,Switzerland,Michael Holz,60,Camembert Pierrot,Really Best Shipper,27.2,19,0,0.05,60,1632
+2029,Jan,4,RICSU,Switzerland,Michael Holz,69,Gudbrandsdalsost,Really Best Shipper,28.8,26,0,0.05,20,576
+2029,Jan,3,WELLI,Brazil,Paula Parente,9,Mishi Kobe Niku,Best Shipper,77.6,29,0,0.1,20,1552
+2029,Jan,3,WELLI,Brazil,Paula Parente,13,Konbu,Best Shipper,4.8,24,0,0.1,2,9.6
+2029,Jan,3,WELLI,Brazil,Paula Parente,70,Outback Lager,Best Shipper,12,15,10,0.1,8,96
+2029,Jan,3,WELLI,Brazil,Paula Parente,73,Red Kaviar,Best Shipper,12,101,0,0.1,20,240
+2029,Jan,8,QUEDE,Brazil,Bernardo Batista,19,Teatime Chocolate Biscuits,Best Shipper,7.3,25,0,0.15,4,29.2
+2029,Jan,8,QUEDE,Brazil,Bernardo Batista,26,Gumber Gummiberchen,Best Shipper,24.9,15,0,0,30,747
+2029,Jan,8,QUEDE,Brazil,Bernardo Batista,53,Perth Pasties,Best Shipper,26.2,0,0,0.15,15,393
+2029,Jan,8,QUEDE,Brazil,Bernardo Batista,77,Original Frankfurter grene Soee,Best Shipper,10.4,32,0,0.15,10,104
+2029,Jan,2,FRANS,Italy,Paolo Accorti,26,Gumber Gummiberchen,Best Shipper,24.9,15,0,0,2,49.8
+2029,Jan,6,GOURL,Brazil,Andre Fonseca,31,Gorgonzola Telino,Grandma Kelly Shipping,10,0,70,0,14,140
+2029,Jan,6,GOURL,Brazil,Andre Fonseca,59,Raclette Courdavault,Grandma Kelly Shipping,44,79,0,0,20,880
+2029,Jan,7,MEREP,Canada,Jean Fresniere,35,Steeleye Stout,Really Best Shipper,14.4,20,0,0.2,60,864
+2029,Jan,7,MEREP,Canada,Jean Fresniere,38,Cete de Blaye,Really Best Shipper,210.8,17,0,0.2,49,10329.2
+2029,Jan,7,MEREP,Canada,Jean Fresniere,68,Scottish Longbreads,Really Best Shipper,10,6,10,0.2,30,300
+2029,Jan,6,LAMAI,France,Annette Roulet,55,Pete chinois,Really Best Shipper,19.2,115,0,0.25,10,192
+2029,Jan,6,LAMAI,France,Annette Roulet,76,Lakkalikeeri,Really Best Shipper,14.4,57,0,0.25,20,288
+2029,Jan,4,GALED,Spain,Eduardo Saavedra,56,Gnocchi di nonna Alice,Best Shipper,30.4,21,10,0,5,152
+2029,Jan,4,GALED,Spain,Eduardo Saavedra,64,Wimmers gute Semmelknedel,Best Shipper,26.6,22,80,0,7,186.2
+2029,Jan,4,PICCO,Austria,Georg Pipps,14,Tofu,Really Best Shipper,18.6,35,0,0,35,651
+2029,Jan,7,REGGC,Italy,Maurizio Moroni,46,Spegesild,Best Shipper,9.6,95,0,0,20,192
+2029,Jan,3,HUNGO,Ireland,Patricia McKenna,50,Valkoinen suklaa,Really Best Shipper,13,65,0,0,40,520
+2029,Jan,3,HUNGO,Ireland,Patricia McKenna,63,Vegie-spread,Really Best Shipper,35.1,24,0,0.25,35,1228.5
+2029,Jan,4,ERNSH,Austria,Roland Mendel,17,Alice Mutton,Best Shipper,31.2,0,0,0.2,45,1404
+2029,Jan,4,ERNSH,Austria,Roland Mendel,21,Sir Rodney's Scones,Best Shipper,8,3,40,0,50,400
+2029,Jan,4,ERNSH,Austria,Roland Mendel,56,Gnocchi di nonna Alice,Best Shipper,30.4,21,10,0,30,912
+2029,Jan,4,ERNSH,Austria,Roland Mendel,59,Raclette Courdavault,Best Shipper,44,79,0,0.2,70,3080
+2029,Jan,4,BOTTM,Canada,Elizabeth Lincoln,17,Alice Mutton,Really Best Shipper,31.2,0,0,0.25,50,1560
+2029,Jan,4,BOTTM,Canada,Elizabeth Lincoln,40,Boston Crab Meat,Really Best Shipper,14.7,123,0,0.25,50,735
+2029,Jan,4,BOTTM,Canada,Elizabeth Lincoln,47,Zaanse koeken,Really Best Shipper,7.6,36,0,0.25,30,228
+2029,Jan,3,SPLIR,USA,Art Braunschweiger,26,Gumber Gummiberchen,Really Best Shipper,24.9,15,0,0,10,249
+2029,Jan,3,SPLIR,USA,Art Braunschweiger,54,Tourtiere,Really Best Shipper,5.9,21,0,0,40,236
+2029,Feb,3,PRINI,Portugal,Isabel de Castro,56,Gnocchi di nonna Alice,Grandma Kelly Shipping,30.4,21,10,0,28,851.2
+2029,Feb,3,FOLKO,Sweden,Maria Larsson,11,Queso Cabrales,Really Best Shipper,16.8,22,30,0,6,100.8
+2029,Feb,3,FOLKO,Sweden,Maria Larsson,76,Lakkalikeeri,Really Best Shipper,14.4,57,0,0.15,18,259.2
+2029,Feb,8,CONSH,UK,Elizabeth Brown,2,Chang,Really Best Shipper,15.2,17,40,0,10,152
+2029,Feb,8,CONSH,UK,Elizabeth Brown,22,Gustaf's Kneckebred,Really Best Shipper,16.8,104,0,0,12,201.6
+2029,Feb,8,CONSH,UK,Elizabeth Brown,72,Mozzarella di Giovanni,Really Best Shipper,27.8,14,0,0,10,278
+2029,Feb,3,BLONP,France,Frederique Citeaux,46,Spegesild,Really Best Shipper,9.6,95,0,0,5,48
+2029,Feb,3,BLONP,France,Frederique Citeaux,56,Gnocchi di nonna Alice,Really Best Shipper,30.4,21,10,0.1,40,1216
+2029,Feb,3,BLONP,France,Frederique Citeaux,64,Wimmers gute Semmelknedel,Really Best Shipper,26.6,22,80,0.1,30,798
+2029,Feb,3,BLONP,France,Frederique Citeaux,75,Rhenbreu Klosterbier,Really Best Shipper,6.2,125,0,0.1,24,148.8
+2029,Feb,8,WARTH,Finland,Pirkko Koskitalo,53,Perth Pasties,Best Shipper,26.2,0,0,0,15,393
+2029,Feb,3,TOMSP,Germany,Karin Josephs,19,Teatime Chocolate Biscuits,Really Best Shipper,7.3,25,0,0.2,15,109.5
+2029,Feb,3,TOMSP,Germany,Karin Josephs,34,Sasquatch Ale,Really Best Shipper,11.2,111,0,0.2,20,224
+2029,Feb,3,TOMSP,Germany,Karin Josephs,57,Ravioli Angelo,Really Best Shipper,15.6,36,0,0.2,15,234
+2029,Feb,6,MEREP,Canada,Jean Fresniere,12,Queso Manchego La Pastora,Grandma Kelly Shipping,30.4,86,0,0,15,456
+2029,Feb,6,MEREP,Canada,Jean Fresniere,16,Pavlova,Grandma Kelly Shipping,13.9,29,0,0,16,222.4
+2029,Feb,6,MEREP,Canada,Jean Fresniere,64,Wimmers gute Semmelknedel,Grandma Kelly Shipping,26.6,22,80,0,6,159.6
+2029,Feb,6,MEREP,Canada,Jean Fresniere,74,Longlife Tofu,Grandma Kelly Shipping,8,4,20,0,30,240
+2029,Feb,4,SAVEA,USA,Jose Pavarotti,2,Chang,Really Best Shipper,15.2,17,40,0.15,45,684
+2029,Feb,4,SAVEA,USA,Jose Pavarotti,16,Pavlova,Really Best Shipper,13.9,29,0,0.15,49,681.1
+2029,Feb,4,SAVEA,USA,Jose Pavarotti,29,Theringer Rostbratwurst,Really Best Shipper,99,0,0,0.15,24,2376
+2029,Feb,4,SAVEA,USA,Jose Pavarotti,61,Sirop d'erable,Really Best Shipper,22.8,113,0,0.15,90,2052
+2029,Feb,3,OLDWO,USA,Rene Phillips,27,Schoggi Schokolade,Really Best Shipper,35.1,49,0,0,50,1755
+2029,Feb,3,ERNSH,Austria,Roland Mendel,11,Queso Cabrales,Really Best Shipper,16.8,22,30,0,30,504
+2029,Feb,3,ERNSH,Austria,Roland Mendel,54,Tourtiere,Really Best Shipper,5.9,21,0,0,80,472
+2029,Feb,3,ERNSH,Austria,Roland Mendel,66,Louisiana Hot Spiced Okra,Really Best Shipper,13.6,4,100,0,60,816
+2029,Feb,8,REGGC,Italy,Maurizio Moroni,11,Queso Cabrales,Best Shipper,16.8,22,30,0.2,6,100.8
+2029,Feb,8,REGGC,Italy,Maurizio Moroni,28,Ressle Sauerkraut,Best Shipper,36.4,26,0,0,12,436.8
+2029,Feb,3,BERGS,Sweden,Christina Berglund,17,Alice Mutton,Grandma Kelly Shipping,31.2,0,0,0,10,312
+2029,Feb,3,BERGS,Sweden,Christina Berglund,26,Gumber Gummiberchen,Grandma Kelly Shipping,24.9,15,0,0,15,373.5
+2029,Feb,3,BERGS,Sweden,Christina Berglund,35,Steeleye Stout,Grandma Kelly Shipping,14.4,20,0,0,8,115.2
+2029,Feb,3,BERGS,Sweden,Christina Berglund,41,Jack's New England Clam Chowder,Grandma Kelly Shipping,7.7,85,0,0,30,231
+2029,Feb,3,BERGS,Sweden,Christina Berglund,39,Chartreuse verte,Best Shipper,14.4,69,0,0,6,86.4
+2029,Feb,3,BERGS,Sweden,Christina Berglund,54,Tourtiere,Best Shipper,5.9,21,0,0,15,88.5
+2029,Feb,6,TOMSP,Germany,Karin Josephs,19,Teatime Chocolate Biscuits,Best Shipper,7.3,25,0,0.1,12,87.6
+2029,Feb,6,TOMSP,Germany,Karin Josephs,24,Guarane Fantestica,Best Shipper,3.6,20,0,0.1,20,72
+2029,Feb,6,TOMSP,Germany,Karin Josephs,31,Gorgonzola Telino,Best Shipper,10,0,70,0.1,3,30
+2029,Feb,6,TOMSP,Germany,Karin Josephs,52,Filo Mix,Best Shipper,5.6,38,0,0.1,15,84
+2029,Feb,4,RICAR,Brazil,Janete Limeira,19,Teatime Chocolate Biscuits,Really Best Shipper,7.3,25,0,0,40,292
+2029,Feb,4,RICAR,Brazil,Janete Limeira,65,Louisiana Fiery Hot Pepper Sauce,Really Best Shipper,16.8,76,0,0,35,588
+2029,Feb,4,RICAR,Brazil,Janete Limeira,71,Flotemysost,Really Best Shipper,17.2,26,0,0,2,34.4
+2029,Feb,4,RANCH,Argentina,Sergio Gutierrez,26,Gumber Gummiberchen,Really Best Shipper,24.9,15,0,0,6,149.4
+2029,Feb,4,RANCH,Argentina,Sergio Gutierrez,40,Boston Crab Meat,Really Best Shipper,14.7,123,0,0,20,294
+2029,Feb,3,BLONP,France,Frederique Citeaux,10,Ikura,Really Best Shipper,24.8,31,0,0,14,347.2
+2029,Feb,3,BLONP,France,Frederique Citeaux,52,Filo Mix,Really Best Shipper,5.6,38,0,0,20,112
+2029,Feb,3,BLONP,France,Frederique Citeaux,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0,35,1379
+2029,Feb,8,VICTE,France,Mary Saveley,10,Ikura,Really Best Shipper,24.8,31,0,0.2,20,496
+2029,Feb,8,VICTE,France,Mary Saveley,54,Tourtiere,Really Best Shipper,5.9,21,0,0.2,6,35.4
+2029,Feb,4,QUICK,Germany,Horst Kloss,55,Pete chinois,Grandma Kelly Shipping,19.2,115,0,0.1,120,2304
+2029,Feb,4,QUICK,Germany,Horst Kloss,64,Wimmers gute Semmelknedel,Grandma Kelly Shipping,26.6,22,80,0.1,35,931
+2029,Feb,4,QUICK,Germany,Horst Kloss,65,Louisiana Fiery Hot Pepper Sauce,Grandma Kelly Shipping,16.8,76,0,0.1,28,470.4
+2029,Feb,4,QUICK,Germany,Horst Kloss,77,Original Frankfurter grene Soee,Grandma Kelly Shipping,10.4,32,0,0.1,55,572
+2029,Feb,8,SAVEA,USA,Jose Pavarotti,28,Ressle Sauerkraut,Best Shipper,36.4,26,0,0,15,546
+2029,Feb,8,SAVEA,USA,Jose Pavarotti,44,Gula Malacca,Best Shipper,15.5,27,0,0.05,100,1550
+2029,Feb,1,AROUT,UK,Thomas Hardy,48,Chocolade,Really Best Shipper,10.2,15,70,0.1,15,153
+2029,Feb,1,AROUT,UK,Thomas Hardy,70,Outback Lager,Really Best Shipper,12,15,10,0.1,25,300
+2029,Feb,4,LAMAI,France,Annette Roulet,16,Pavlova,Grandma Kelly Shipping,13.9,29,0,0.2,20,278
+2029,Feb,4,LAMAI,France,Annette Roulet,33,Geitost,Grandma Kelly Shipping,2,112,0,0.2,20,40
+2029,Feb,4,LAMAI,France,Annette Roulet,46,Spegesild,Grandma Kelly Shipping,9.6,95,0,0.2,10,96
+2029,Feb,8,WARTH,Finland,Pirkko Koskitalo,39,Chartreuse verte,Really Best Shipper,14.4,69,0,0,20,288
+2029,Feb,8,WARTH,Finland,Pirkko Koskitalo,53,Perth Pasties,Really Best Shipper,26.2,0,0,0,50,1310
+2029,Feb,8,WARTH,Finland,Pirkko Koskitalo,61,Sirop d'erable,Really Best Shipper,22.8,113,0,0,25,570
+2029,Feb,8,WARTH,Finland,Pirkko Koskitalo,71,Flotemysost,Really Best Shipper,17.2,26,0,0,30,516
+2029,Feb,8,KOENE,Germany,Philip Cramer,21,Sir Rodney's Scones,Really Best Shipper,8,3,40,0.15,40,320
+2029,Feb,8,KOENE,Germany,Philip Cramer,49,Maxilaku,Really Best Shipper,16,10,60,0.15,21,336
+2029,Feb,2,KOENE,Germany,Philip Cramer,59,Raclette Courdavault,Best Shipper,44,79,0,0,36,1584
+2029,Feb,7,SUPRD,Belgium,Pascale Cartrain,26,Gumber Gummiberchen,Grandma Kelly Shipping,24.9,15,0,0,30,747
+2029,Feb,7,SUPRD,Belgium,Pascale Cartrain,28,Ressle Sauerkraut,Grandma Kelly Shipping,36.4,26,0,0,30,1092
+2029,Feb,7,SUPRD,Belgium,Pascale Cartrain,43,Ipoh Coffee,Grandma Kelly Shipping,36.8,17,10,0,20,736
+2029,Feb,7,SUPRD,Belgium,Pascale Cartrain,56,Gnocchi di nonna Alice,Grandma Kelly Shipping,30.4,21,10,0,15,456
+2029,Feb,7,SUPRD,Belgium,Pascale Cartrain,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0,50,860
+2029,Feb,4,VICTE,France,Mary Saveley,7,Uncle Bob's Organic Dried Pears,Really Best Shipper,24,15,0,0.05,16,384
+2029,Feb,4,VICTE,France,Mary Saveley,46,Spegesild,Really Best Shipper,9.6,95,0,0.05,20,192
+2029,Feb,4,VICTE,France,Mary Saveley,72,Mozzarella di Giovanni,Really Best Shipper,27.8,14,0,0,40,1112
+2029,Feb,8,FOLKO,Sweden,Maria Larsson,68,Scottish Longbreads,Best Shipper,10,6,10,0.25,21,210
+2029,Feb,8,FOLKO,Sweden,Maria Larsson,75,Rhenbreu Klosterbier,Best Shipper,6.2,125,0,0.25,4,24.8
+2029,Feb,1,LILAS,Venezuela,Carlos Gonzelez,21,Sir Rodney's Scones,Grandma Kelly Shipping,8,3,40,0.25,40,320
+2029,Feb,1,LILAS,Venezuela,Carlos Gonzelez,30,Nord-Ost Matjeshering,Grandma Kelly Shipping,20.7,10,0,0.25,28,579.6
+2029,Feb,1,LILAS,Venezuela,Carlos Gonzelez,55,Pete chinois,Grandma Kelly Shipping,19.2,115,0,0.25,60,1152
+2029,Mar,2,CONSH,UK,Elizabeth Brown,13,Konbu,Best Shipper,4.8,24,0,0,1,4.8
+2029,Mar,2,CONSH,UK,Elizabeth Brown,23,Tunnbred,Best Shipper,7.2,61,0,0,21,151.2
+2029,Mar,5,SUPRD,Belgium,Pascale Cartrain,19,Teatime Chocolate Biscuits,Grandma Kelly Shipping,7.3,25,0,0,21,153.3
+2029,Mar,5,SUPRD,Belgium,Pascale Cartrain,42,Singaporean Hokkien Fried Mee,Grandma Kelly Shipping,11.2,26,0,0,50,560
+2029,Mar,4,FURIB,Portugal,Lino Rodriguez,4,Chef Anton's Cajun Seasoning,Really Best Shipper,17.6,53,0,0.2,16,281.6
+2029,Mar,4,FURIB,Portugal,Lino Rodriguez,43,Ipoh Coffee,Really Best Shipper,36.8,17,10,0,3,110.4
+2029,Mar,4,FURIB,Portugal,Lino Rodriguez,56,Gnocchi di nonna Alice,Really Best Shipper,30.4,21,10,0.2,30,912
+2029,Mar,4,FURIB,Portugal,Lino Rodriguez,60,Camembert Pierrot,Really Best Shipper,27.2,19,0,0,20,544
+2029,Mar,1,VAFFE,Denmark,Palle Ibsen,24,Guarane Fantestica,Grandma Kelly Shipping,3.6,20,0,0,25,90
+2029,Mar,1,VAFFE,Denmark,Palle Ibsen,29,Theringer Rostbratwurst,Grandma Kelly Shipping,99,0,0,0.1,18,1782
+2029,Mar,1,VAFFE,Denmark,Palle Ibsen,40,Boston Crab Meat,Grandma Kelly Shipping,14.7,123,0,0,20,294
+2029,Mar,1,VAFFE,Denmark,Palle Ibsen,45,Rogede sild,Grandma Kelly Shipping,7.6,5,70,0.1,30,228
+2029,Mar,1,VAFFE,Denmark,Palle Ibsen,50,Valkoinen suklaa,Grandma Kelly Shipping,13,65,0,0,25,325
+2029,Mar,4,COMMI,Brazil,Pedro Afonso,11,Queso Cabrales,Best Shipper,16.8,22,30,0,10,168
+2029,Mar,4,COMMI,Brazil,Pedro Afonso,46,Spegesild,Best Shipper,9.6,95,0,0,5,48
+2029,Mar,8,MAGAA,Italy,Giovanni Rovelli,24,Guarane Fantestica,Really Best Shipper,3.6,20,0,0,28,100.8
+2029,Mar,8,MAGAA,Italy,Giovanni Rovelli,25,NuNuCa Nue-Nougat-Creme,Really Best Shipper,11.2,76,0,0,12,134.4
+2029,Mar,3,KOENE,Germany,Philip Cramer,30,Nord-Ost Matjeshering,Grandma Kelly Shipping,20.7,10,0,0,8,165.6
+2029,Mar,3,KOENE,Germany,Philip Cramer,43,Ipoh Coffee,Grandma Kelly Shipping,36.8,17,10,0,15,552
+2029,Mar,1,WHITC,USA,Karl Jablonski,2,Chang,Best Shipper,15.2,17,40,0.15,40,608
+2029,Mar,1,WHITC,USA,Karl Jablonski,16,Pavlova,Best Shipper,13.9,29,0,0.15,35,486.5
+2029,Mar,1,WHITC,USA,Karl Jablonski,44,Gula Malacca,Best Shipper,15.5,27,0,0.15,2,31
+2029,Mar,4,BONAP,France,Laurence Lebihan,18,Carnarvon Tigers,Really Best Shipper,50,42,0,0,30,1500
+2029,Mar,4,BONAP,France,Laurence Lebihan,23,Tunnbred,Really Best Shipper,7.2,61,0,0,15,108
+2029,Mar,4,BONAP,France,Laurence Lebihan,64,Wimmers gute Semmelknedel,Really Best Shipper,26.6,22,80,0,8,212.8
+2029,Mar,2,BSBEV,UK,Victoria Ashworth,7,Uncle Bob's Organic Dried Pears,Grandma Kelly Shipping,24,15,0,0,30,720
+2029,Mar,2,BSBEV,UK,Victoria Ashworth,56,Gnocchi di nonna Alice,Grandma Kelly Shipping,30.4,21,10,0,20,608
+2029,Mar,8,SEVES,UK,Hari Kumar,24,Guarane Fantestica,Best Shipper,3.6,20,0,0.05,80,288
+2029,Mar,8,SEVES,UK,Hari Kumar,51,Manjimup Dried Apples,Best Shipper,42.4,20,0,0,18,763.2
+2029,Mar,1,ISLAT,UK,Helen Bennett,33,Geitost,Grandma Kelly Shipping,2,112,0,0,12,24
+2029,Mar,1,ISLAT,UK,Helen Bennett,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0,12,206.4
+2029,Mar,5,PERIC,Mexico,Guillermo Fernendez,14,Tofu,Really Best Shipper,18.6,35,0,0,12,223.2
+2029,Mar,5,PERIC,Mexico,Guillermo Fernendez,28,Ressle Sauerkraut,Really Best Shipper,36.4,26,0,0,18,655.2
+2029,Mar,5,PERIC,Mexico,Guillermo Fernendez,40,Boston Crab Meat,Really Best Shipper,14.7,123,0,0,21,308.7
+2029,Mar,5,PERIC,Mexico,Guillermo Fernendez,75,Rhenbreu Klosterbier,Really Best Shipper,6.2,125,0,0,10,62
+2029,Mar,9,SUPRD,Belgium,Pascale Cartrain,31,Gorgonzola Telino,Best Shipper,10,0,70,0.15,35,350
+2029,Mar,9,SUPRD,Belgium,Pascale Cartrain,66,Louisiana Hot Spiced Okra,Best Shipper,13.6,4,100,0.15,60,816
+2029,Mar,9,SUPRD,Belgium,Pascale Cartrain,76,Lakkalikeeri,Best Shipper,14.4,57,0,0.15,42,604.8
+2029,Mar,8,HILAA,Venezuela,Carlos Hernendez,55,Pete chinois,Grandma Kelly Shipping,19.2,115,0,0.05,2,38.4
+2029,Mar,8,HILAA,Venezuela,Carlos Hernendez,70,Outback Lager,Grandma Kelly Shipping,12,15,10,0,12,144
+2029,Mar,5,PRINI,Portugal,Isabel de Castro,1,Chai,Really Best Shipper,14.4,39,0,0,15,216
+2029,Mar,5,PRINI,Portugal,Isabel de Castro,21,Sir Rodney's Scones,Really Best Shipper,8,3,40,0.25,21,168
+2029,Mar,5,PRINI,Portugal,Isabel de Castro,39,Chartreuse verte,Really Best Shipper,14.4,69,0,0.25,20,288
+2029,Mar,2,VICTE,France,Mary Saveley,10,Ikura,Grandma Kelly Shipping,24.8,31,0,0.05,20,496
+2029,Mar,3,RATTC,USA,Paula Wilson,38,Cete de Blaye,Grandma Kelly Shipping,210.8,17,0,0,30,6324
+2029,Mar,3,RATTC,USA,Paula Wilson,53,Perth Pasties,Grandma Kelly Shipping,26.2,0,0,0,28,733.6
+2029,Mar,3,RATTC,USA,Paula Wilson,59,Raclette Courdavault,Grandma Kelly Shipping,44,79,0,0,60,2640
+2029,Mar,3,RATTC,USA,Paula Wilson,64,Wimmers gute Semmelknedel,Grandma Kelly Shipping,26.6,22,80,0,30,798
+2029,Mar,6,FOLIG,France,Martine Rance,47,Zaanse koeken,Really Best Shipper,7.6,36,0,0,30,228
+2029,Mar,6,FOLIG,France,Martine Rance,59,Raclette Courdavault,Really Best Shipper,44,79,0,0,12,528
+2029,Mar,8,RICAR,Brazil,Janete Limeira,49,Maxilaku,Really Best Shipper,16,10,60,0,24,384
+2029,Mar,8,RICAR,Brazil,Janete Limeira,60,Camembert Pierrot,Really Best Shipper,27.2,19,0,0,40,1088
+2029,Mar,1,LAZYK,USA,John Steel,40,Boston Crab Meat,Grandma Kelly Shipping,14.7,123,0,0,10,147
+2029,Mar,7,WHITC,USA,Karl Jablonski,34,Sasquatch Ale,Really Best Shipper,11.2,111,0,0.05,35,392
+2029,Mar,7,WHITC,USA,Karl Jablonski,77,Original Frankfurter grene Soee,Really Best Shipper,10.4,32,0,0.05,30,312
+2029,Mar,3,BSBEV,UK,Victoria Ashworth,21,Sir Rodney's Scones,Grandma Kelly Shipping,8,3,40,0,14,112
+2029,Mar,3,BSBEV,UK,Victoria Ashworth,40,Boston Crab Meat,Grandma Kelly Shipping,14.7,123,0,0,10,147
+2029,Mar,3,BSBEV,UK,Victoria Ashworth,51,Manjimup Dried Apples,Grandma Kelly Shipping,42.4,20,0,0,3,127.2
+2029,Mar,4,LINOD,Venezuela,Felipe Izquierdo,2,Chang,Really Best Shipper,15.2,17,40,0.1,20,304
+2029,Mar,4,LINOD,Venezuela,Felipe Izquierdo,3,Aniseed Syrup,Really Best Shipper,8,13,70,0.1,20,160
+2029,Mar,4,LINOD,Venezuela,Felipe Izquierdo,55,Pete chinois,Really Best Shipper,19.2,115,0,0.1,30,576
+2029,Mar,4,LINOD,Venezuela,Felipe Izquierdo,70,Outback Lager,Really Best Shipper,12,15,10,0.1,60,720
+2029,Mar,1,HILAA,Venezuela,Carlos Hernendez,11,Queso Cabrales,Really Best Shipper,16.8,22,30,0,5,84
+2029,Mar,1,HILAA,Venezuela,Carlos Hernendez,51,Manjimup Dried Apples,Really Best Shipper,42.4,20,0,0,25,1060
+2029,Mar,1,HILAA,Venezuela,Carlos Hernendez,74,Longlife Tofu,Really Best Shipper,8,4,20,0,16,128
+2029,Mar,2,,,,19,Teatime Chocolate Biscuits,Really Best Shipper,7.3,25,0,0,5,36.5
+2029,Mar,2,,,,26,Gumber Gummiberchen,Really Best Shipper,24.9,15,0,0,30,747
+2029,Mar,2,,,,54,Tourtiere,Really Best Shipper,5.9,21,0,0.25,24,141.6
+2029,Mar,8,FRANK,Germany,Peter Franken,59,Raclette Courdavault,Really Best Shipper,44,79,0,0,30,1320
+2029,Mar,8,FRANK,Germany,Peter Franken,73,Red Kaviar,Really Best Shipper,12,101,0,0.2,20,240
+2029,Mar,6,PICCO,Austria,Georg Pipps,11,Queso Cabrales,Really Best Shipper,16.8,22,30,0.25,15,252
+2029,Mar,6,PICCO,Austria,Georg Pipps,16,Pavlova,Really Best Shipper,13.9,29,0,0,18,250.2
+2029,Mar,7,HILAA,Venezuela,Carlos Hernendez,59,Raclette Courdavault,Really Best Shipper,44,79,0,0,60,2640
+2029,Mar,7,HILAA,Venezuela,Carlos Hernendez,68,Scottish Longbreads,Really Best Shipper,10,6,10,0,30,300
+2029,Mar,7,HILAA,Venezuela,Carlos Hernendez,75,Rhenbreu Klosterbier,Really Best Shipper,6.2,125,0,0,36,223.2
+2029,Mar,8,FURIB,Portugal,Lino Rodriguez,44,Gula Malacca,Grandma Kelly Shipping,15.5,27,0,0.15,15,232.5
+2029,Mar,8,FURIB,Portugal,Lino Rodriguez,77,Original Frankfurter grene Soee,Grandma Kelly Shipping,10.4,32,0,0.15,7,72.8
+2029,Apr,3,BOTTM,Canada,Elizabeth Lincoln,25,NuNuCa Nue-Nougat-Creme,Best Shipper,11.2,76,0,0.05,60,672
+2029,Apr,3,BOTTM,Canada,Elizabeth Lincoln,42,Singaporean Hokkien Fried Mee,Best Shipper,11.2,26,0,0.05,20,224
+2029,Apr,4,LAMAI,France,Annette Roulet,65,Louisiana Fiery Hot Pepper Sauce,Grandma Kelly Shipping,16.8,76,0,0.1,15,252
+2029,Apr,4,LAMAI,France,Annette Roulet,66,Louisiana Hot Spiced Okra,Grandma Kelly Shipping,13.6,4,100,0.1,10,136
+2029,Apr,4,LAMAI,France,Annette Roulet,69,Gudbrandsdalsost,Grandma Kelly Shipping,28.8,26,0,0.1,10,288
+2029,Apr,4,COMMI,Brazil,Pedro Afonso,56,Gnocchi di nonna Alice,Really Best Shipper,30.4,21,10,0,30,912
+2029,Apr,3,LAUGB,Canada,Yoshi Tannamuri,23,Tunnbred,Grandma Kelly Shipping,7.2,61,0,0,10,72
+2029,Apr,3,LAUGB,Canada,Yoshi Tannamuri,41,Jack's New England Clam Chowder,Grandma Kelly Shipping,7.7,85,0,0,20,154
+2029,Apr,3,LAUGB,Canada,Yoshi Tannamuri,77,Original Frankfurter grene Soee,Grandma Kelly Shipping,10.4,32,0,0,5,52
+2029,Apr,7,TRADH,Brazil,Anabela Domingues,31,Gorgonzola Telino,Really Best Shipper,10,0,70,0.05,20,200
+2029,Apr,7,LEHMS,Germany,Renate Messner,56,Gnocchi di nonna Alice,Best Shipper,30.4,21,10,0,14,425.6
+2029,Apr,7,LEHMS,Germany,Renate Messner,72,Mozzarella di Giovanni,Best Shipper,27.8,14,0,0,25,695
+2029,Apr,7,LEHMS,Germany,Renate Messner,77,Original Frankfurter grene Soee,Best Shipper,10.4,32,0,0,25,260
+2029,Apr,8,HILAA,Venezuela,Carlos Hernendez,24,Guarane Fantestica,Really Best Shipper,4.5,20,0,0,14,63
+2029,Apr,8,HILAA,Venezuela,Carlos Hernendez,40,Boston Crab Meat,Really Best Shipper,18.4,123,0,0,5,92
+2029,Apr,8,HILAA,Venezuela,Carlos Hernendez,42,Singaporean Hokkien Fried Mee,Really Best Shipper,14,26,0,0,30,420
+2029,Apr,4,LILAS,Venezuela,Carlos Gonzelez,28,Ressle Sauerkraut,Really Best Shipper,45.6,26,0,0,20,912
+2029,Apr,4,LILAS,Venezuela,Carlos Gonzelez,49,Maxilaku,Really Best Shipper,20,10,60,0,25,500
+2029,Apr,6,LAMAI,France,Annette Roulet,15,Genen Shouyu,Best Shipper,15.5,39,0,0.05,12,186
+2029,Apr,6,LAMAI,France,Annette Roulet,28,Ressle Sauerkraut,Best Shipper,45.6,26,0,0.05,8,364.8
